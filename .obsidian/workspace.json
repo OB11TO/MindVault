@@ -23,12 +23,24 @@
             "id": "3aa73b83c9284272",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "временная/Что нужно для описания OBSIDIANE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3c3012e951ad3cc",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,11 +164,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3aa73b83c9284272",
+  "active": "f3c3012e951ad3cc",
   "lastOpenFiles": [
-    "Без названия.md",
-    "временная/☕ТЕМА.md",
+    "временная/Test git.md",
     "временная/Что нужно для описания OBSIDIANE.md",
+    "временная/☕ТЕМА.md",
+    "Без названия.md",
     "ПGG.md",
     "2024-08-28.md",
     "Без названия.canvas",
