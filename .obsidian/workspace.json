@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "0d1acc4f896d7568",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dfd49a3c6f9cff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ec6021a205e7a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "временная/☕ТЕМА.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aa73b83c9284272",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6cf65d4c08aa7f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "98482d4260737d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3f1da65a8773f2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b356c2a31210cc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b76bba79aa48199",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.50260543823242
+  },
+  "right": {
+    "id": "90247be8bdd1a185",
+    "type": "split",
+    "children": [
+      {
+        "id": "608f76448e2da96f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9877c3df4f21e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ede727f2559108e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db0f39adc4d92cfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37a81ed08718afce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "3aa73b83c9284272",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "временная/☕ТЕМА.md",
+    "временная/Что нужно для описания OBSIDIANE.md",
+    "ПGG.md",
+    "2024-08-28.md",
+    "Без названия.canvas",
+    "Добро пожаловать.md",
+    "images/Pasted image 20240828125030.png",
+    "images/Pasted image 20240828124740.png",
+    "images/Pasted image 20240828134313.png",
+    "images/Pasted image 20240828141120.png",
+    "images/Pasted image 20240828124652.png",
+    "Без названия 1.canvas",
+    "images",
+    "временная"
+  ]
+}
