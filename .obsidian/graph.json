@@ -8,30 +8,37 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:java",
+      "query": "tag:#JavaSE  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 15432960
       }
     },
     {
-      "query": "",
+      "query": "tag:#java_developer  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 8013896
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0.5,
+  "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 2.3884797617436,
   "lineSizeMultiplier": 2.17621497224854,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.337078651685393,
   "repelStrength": 9.42737241099228,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.6554675892632811,
+  "scale": 0.655467589263294,
   "close": true
 }

@@ -25,5 +25,23 @@
       ],
       "key": "/"
     }
+  ],
+  "window:toggle-always-on-top": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "="
+    }
   ]
 }

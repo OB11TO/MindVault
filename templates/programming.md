@@ -3,12 +3,13 @@ title: "{{title}}"
 tags: 
 related_topics: 
 created: "{{date}} {{time}}"
-modified: 2024-08-29T16:52:26+03:00
-status: 
+modified: 2024-08-30T12:42:03+03:00
 difficulty: 
-comprehension: 
 questions: 
 notes: 
 links: 
 ---
 ## Краткое описание
+
+
+## Полное описание

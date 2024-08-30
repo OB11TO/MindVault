@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09fc62d55018e403",
+            "id": "9d7bf20698a1a68a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/Java.md",
+                "file": "programming/backendJava/java-core/javaSE/Enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/Java.md",
+                "file": "programming/backendJava/java-core/javaSE/Enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/Java.md",
+                "file": "programming/backendJava/java-core/javaSE/Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/Java.md"
+                "file": "programming/backendJava/java-core/javaSE/Enum.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,52 +141,60 @@
       "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "templates:Вставить шаблон": false
     }
   },
-  "active": "a3f1da65a8773f2c",
+  "active": "9d7bf20698a1a68a",
   "lastOpenFiles": [
-    "programming/backendJava/JavaSE",
+    "images/Pasted image 20240830152510.png",
+    "images/Pasted image 20240830152412.png",
+    "images/Pasted image 20240830152344.png",
+    "images/Pasted image 20240830151905.png",
+    "images/Pasted image 20240830151450.png",
+    "images/Pasted image 20240830151304.png",
+    "images/Pasted image 20240830151208.png",
+    "images/Pasted image 20240830151144.png",
+    "programming/backendJava/Java Developer.md",
+    "programming/backendJava/java-core/javaSE/Enum.md",
+    "programming/backendJava/java-core/javaSE/Класс Object.md",
     "временная/☕ТЕМА.md",
-    "programming/backendJava/Java.md",
+    "2024-08-30.md",
+    "programming/backendJava/java-core/javaSE/Анонимные внутренние классы.md",
+    "programming/backendJava/java-core/javaSE/Перегрузка метода.md",
+    "programming/backendJava/java-core/javaSE/Nested class.md",
+    "programming/backendJava/java-core/javaSE/Абстракция.md",
+    "programming/backendJava/java-core/javaSE/Inner class.md",
+    "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
+    "programming/backendJava/java-core/javaSE/Модификаторы доступа в Java.md",
+    "programming/backendJava/java-core/javaSE/Композиция и агрегация.md",
+    "images/Pasted image 20240830134423.png",
+    "programming/backendJava/java-core/javaSE/Преобразования примитивов.md",
+    "programming/backendJava/java-core/javaSE/Примитивные типы данных.md",
+    "programming/backendJava/java-core/javaSE/Полиморфизм.md",
     "templates/programming.md",
-    "tag/difficulty/expert.md",
-    "tag/difficulty/challenging.md",
-    "tag/difficulty/hard.md",
-    "tag/difficulty/medium.md",
-    "tag/difficulty/easy.md",
-    "tag/comprehension/fully.md",
-    "tag/comprehension/revisit.md",
-    "tag/comprehension/needs_revision.md",
-    "tag/comprehension/unclear (warning).md",
-    "tag/comprehension",
-    "tag/Без названия.md",
-    "tag/status/new.md",
-    "tag/difficulty",
-    "tag/status",
-    "tag/status/completed.md",
-    "tag/status/in_progress.md",
-    "tag",
+    "programming/backendJava/java-core/javaSE/Наследование.md",
+    "programming/backendJava/interview/Абстрактные класс vs Интерфейс.md",
+    "programming/backendJava/interview",
     "временная/📂Что нужно для описания OBSIDIANE.md",
+    "images/Pasted image 20240830122925.png",
     "временная/Test git.md",
-    "images/Pasted image 20240829155303.png",
-    "templates",
-    "programming/backendJava",
-    "programming",
-    "Без названия.md",
-    "ПGG.md",
-    "2024-08-28.md",
+    "programming/backendJava/javaEE",
+    "programming/backendJava/java-core/multithriding",
+    "programming/backendJava/java-core/io-nio",
+    "programming/backendJava/java-core/streamApi",
+    "programming/backendJava/java-core/collections",
+    "programming/backendJava/java-core/javaSE",
+    "programming/backendJava/k8s",
+    "programming/backendJava/microservices",
+    "programming/backendJava/patterns",
+    "in_progress.md",
+    "images/Pasted image 20240830105118.png",
+    "tag/comprehension/revisit.md",
+    "tag/status/in_progress.md",
+    "tag/difficulty/expert.md",
     "Без названия.canvas",
-    "Добро пожаловать.md",
-    "images/Pasted image 20240828125030.png",
-    "images/Pasted image 20240828124740.png",
-    "images/Pasted image 20240828134313.png",
-    "images/Pasted image 20240828141120.png",
-    "images/Pasted image 20240828124652.png",
-    "Без названия 1.canvas",
-    "images",
-    "временная"
+    "Без названия 1.canvas"
   ]
 }
