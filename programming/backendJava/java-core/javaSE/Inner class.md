@@ -1,12 +1,11 @@
 ---
 title: Inner class
 tags:
-  - java_developer
   - JavaSE
   - Вложенные/ВнутренниеKлассы
 related_topics: 
 created: 2024-08-30 13:50
-modified: 2024-08-30T14:02:20+03:00
+modified: 2024-08-30T16:44:51+03:00
 difficulty: medium
 questions: 
 notes: 

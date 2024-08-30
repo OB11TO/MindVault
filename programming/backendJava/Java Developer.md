@@ -1,12 +1,11 @@
 ---
 title: Java Developer
 tags:
-  - java_developer
   - revisit
   - in_progress
 related_topics: 
 created: 2024-08-29 16:48
-modified: 2024-08-30T15:06:35+03:00
+modified: 2024-08-30T16:46:29+03:00
 difficulty: expert
 questions: 
 notes: Каждый день превосходи свой предел!
@@ -34,26 +33,26 @@ links:
 [[Анонимные внутренние классы]]
 ##### [[Класс Object]]
 ##### [[Enum]]
-##### Switch конструкции
+##### [[Switch конструкции]]
 ##### Array
-Класс Arrays
-Одномерный массив
-Двумерный массив
+[[Класс Arrays]]
+[[Одномерный массив]]
+[[Двумерный массив]]
 ##### CharSequence
-Описание интерфейса CharSequence
-CharBuffer and Segment
-String
-StringBuilder
-StringBuffer
-##### Exception
+[[Описание интерфейса CharSequence]]
+[[CharBuffer and Segment]]
+[[String]]
+[[StringBuilder]]
+[[StringBuffer]]
+##### [[Exception]]
 ##### Generics
 
-##### Math
+##### [[Math]]
 ##### Annotations
-##### Сериализация и десериализация
+##### [[Сериализация и десериализация]]
 ##### Reflection API
 ##### Логирование
-##### Record Class
+##### [[Record Class]]
 ##### Sealed Class
 ##### Date and Time
 

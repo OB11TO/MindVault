@@ -2,10 +2,9 @@
 title: Enum
 tags:
   - JavaSE
-  - java_developer
 related_topics: 
 created: 2024-08-30 15:10
-modified: 2024-08-30T15:25:20+03:00
+modified: 2024-08-30T16:44:47+03:00
 difficulty: easy
 questions: 
 notes: 

@@ -2,11 +2,10 @@
 title: Nested class
 tags:
   - Вложенные/ВнутренниеKлассы
-  - java_developer
   - JavaSE
 related_topics: 
 created: 2024-08-30 14:02
-modified: 2024-08-30T14:05:49+03:00
+modified: 2024-08-30T16:44:54+03:00
 difficulty: medium
 questions: 
 notes: 

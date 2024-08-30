@@ -1,11 +1,10 @@
 ---
 title: Модификаторы доступа в Java
 tags:
-  - java_developer
   - JavaSE
 related_topics: 
 created: 2024-08-30 12:45
-modified: 2024-08-30T12:47:16+03:00
+modified: 2024-08-30T16:44:24+03:00
 difficulty: easy
 questions: 
 notes: 
