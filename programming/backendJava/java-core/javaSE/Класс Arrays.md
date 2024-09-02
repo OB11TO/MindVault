@@ -5,8 +5,8 @@ tags:
   - Array
 related_topics: 
 created: 2024-08-30 15:35
-modified: 2024-08-30T16:44:16+03:00
-difficulty: 
+modified: 2024-08-30T18:53:07+03:00
+difficulty: easy
 questions: 
 notes: 
 links: 

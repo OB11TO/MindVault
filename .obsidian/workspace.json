@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record Class.md",
+                "file": "programming/backendJava/java-core/javaSE/Record Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 283.5
   },
   "right": {
     "id": "90247be8bdd1a185",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record Class.md",
+                "file": "programming/backendJava/java-core/javaSE/Record Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record Class.md",
+                "file": "programming/backendJava/java-core/javaSE/Record Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record Class.md"
+                "file": "programming/backendJava/java-core/javaSE/Record Class.md"
               }
             }
           }
@@ -149,32 +149,32 @@
   },
   "active": "51fe992fe064985e",
   "lastOpenFiles": [
+    "programming/backendJava/java-core/javaSE/Сериализация и десериализация.md",
+    "programming/backendJava/java-core/javaSE/Преобразования примитивов.md",
+    "programming/backendJava/java-core/javaSE/Модификаторы доступа в Java.md",
+    "programming/backendJava/java-core/javaSE/Класс Arrays.md",
+    "programming/backendJava/java-core/javaSE/Примитивные типы данных.md",
+    "programming/backendJava/java-core/javaSE/Nested class.md",
+    "programming/backendJava/java-core/javaSE/Двумерный массив.md",
     "programming/backendJava/Java Developer.md",
-    "Record Class.md",
+    "templates/programming.md",
+    "programming/backendJava/java-core/javaSE/Enum.md",
+    "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
+    "programming/backendJava/java-core/javaSE/Анонимные внутренние классы.md",
+    "programming/backendJava/java-core/javaSE/Абстракция.md",
+    "programming/backendJava/java-core/javaSE/Record Class.md",
     "programming/backendJava/java-core/javaSE/Switch конструкции.md",
     "programming/backendJava/java-core/javaSE/StringBuilder.md",
     "programming/backendJava/java-core/javaSE/StringBuffer.md",
     "programming/backendJava/java-core/javaSE/String.md",
-    "programming/backendJava/java-core/javaSE/Nested class.md",
     "programming/backendJava/java-core/javaSE/Math.md",
     "programming/backendJava/java-core/javaSE/Inner class.md",
     "programming/backendJava/java-core/javaSE/Exception.md",
-    "programming/backendJava/java-core/javaSE/Enum.md",
-    "programming/backendJava/java-core/javaSE/Сериализация и десериализация.md",
-    "programming/backendJava/java-core/javaSE/Примитивные типы данных.md",
-    "programming/backendJava/java-core/javaSE/Преобразования примитивов.md",
     "programming/backendJava/java-core/javaSE/Полиморфизм.md",
     "programming/backendJava/java-core/javaSE/Перегрузка метода.md",
     "programming/backendJava/java-core/javaSE/Описание интерфейса CharSequence.md",
     "programming/backendJava/java-core/javaSE/Одномерный массив.md",
     "programming/backendJava/java-core/javaSE/Наследование.md",
-    "programming/backendJava/java-core/javaSE/Модификаторы доступа в Java.md",
-    "programming/backendJava/java-core/javaSE/Композиция и агрегация.md",
-    "programming/backendJava/java-core/javaSE/Класс Object.md",
-    "programming/backendJava/java-core/javaSE/Класс Arrays.md",
-    "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
-    "programming/backendJava/java-core/javaSE/Двумерный массив.md",
-    "programming/backendJava/java-core/javaSE/Анонимные внутренние классы.md",
     "images/Pasted image 20240830163727.png",
     "images/Pasted image 20240830163102.png",
     "images/Pasted image 20240830162541.png",
