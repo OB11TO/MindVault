@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55fa61a12338e572",
+        "id": "37669b4d30ed03d1",
         "type": "tabs",
         "children": [
           {
-            "id": "51fe992fe064985e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/Java Developer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "910f222d6ba8299a",
+            "id": "a92e0fcdb4b37a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,14 +147,14 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "910f222d6ba8299a",
+  "active": "a92e0fcdb4b37a61",
   "lastOpenFiles": [
+    "programming/backendJava/Java Developer.md",
     "programming/backendJava/interview/Абстрактные класс vs Интерфейс.md",
     "programming/backendJava/java-core/javaSE/Наследование.md",
     "Notion/Collections.md",
     "Notion/Тестирование.md",
     "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
-    "programming/backendJava/Java Developer.md",
     "programming/backendJava/java-core/javaSE/Nested class.md",
     "programming/backendJava/java-core/javaSE/Inner class.md",
     "programming/backendJava/java-core/javaSE/Анонимные внутренние классы.md",
