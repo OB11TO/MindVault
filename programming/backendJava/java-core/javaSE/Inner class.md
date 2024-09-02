@@ -2,10 +2,10 @@
 title: Inner class
 tags:
   - JavaSE
-  - Вложенные/ВнутренниеKлассы
+  - InnerClass
 related_topics: 
 created: 2024-08-30 13:50
-modified: 2024-08-30T16:44:51+03:00
+modified: 2024-09-02T15:36:39+03:00
 difficulty: medium
 questions: 
 notes: 

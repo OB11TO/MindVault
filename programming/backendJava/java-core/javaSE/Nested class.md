@@ -1,11 +1,11 @@
 ---
 title: Nested class
 tags:
-  - Вложенные/ВнутренниеKлассы
   - JavaSE
+  - InnerClass
 related_topics: 
 created: 2024-08-30 14:02
-modified: 2024-08-30T16:44:54+03:00
+modified: 2024-09-02T15:36:44+03:00
 difficulty: medium
 questions: 
 notes: 
