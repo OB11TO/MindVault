@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Наследование.md",
+                "file": "programming/backendJava/Java Developer.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Наследование.md",
+                "file": "programming/backendJava/Java Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Наследование.md",
+                "file": "programming/backendJava/Java Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Наследование.md"
+                "file": "programming/backendJava/Java Developer.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "910f222d6ba8299a",
   "lastOpenFiles": [
+    "programming/backendJava/interview/Абстрактные класс vs Интерфейс.md",
+    "programming/backendJava/java-core/javaSE/Наследование.md",
     "Notion/Collections.md",
     "Notion/Тестирование.md",
     "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
@@ -199,8 +201,6 @@
     "Notion/Сборка проекта.md",
     "Notion/System Design.md",
     "Notion/Algorithm",
-    "Notion/Liquibase.md",
-    "Notion/Stream API.md",
     "Notion/Liquibase",
     "Notion/Lombok",
     "Notion/Apache Tomcat",

@@ -1,0 +1,122 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiStreamrunners",
+      "SiThreads",
+      "RiJavaFill",
+      "BoBxlJava",
+      "RiInputField"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "programming/backendJava/java-core": {
+    "iconName": "FabJava",
+    "iconColor": "#eb840f"
+  },
+  "programming/backendJava/docker": {
+    "iconName": "SiDocker",
+    "iconColor": "#13cee7"
+  },
+  "programming/backendJava/bash": {
+    "iconName": "SiGnubash",
+    "iconColor": "#312525"
+  },
+  "programming/backendJava/git": {
+    "iconName": "SiGit",
+    "iconColor": "#e17014"
+  },
+  "programming/backendJava/gradle": {
+    "iconName": "SiGradle",
+    "iconColor": "#76acb7"
+  },
+  "programming/backendJava/hibernate": {
+    "iconName": "SiHibernate",
+    "iconColor": "#72593b"
+  },
+  "programming/backendJava/interview": {
+    "iconName": "LiMedal",
+    "iconColor": "#f0dc00"
+  },
+  "programming/backendJava/javaEE": {
+    "iconName": "RiJavaLine",
+    "iconColor": "#eaa510"
+  },
+  "programming/backendJava/jdbc": {
+    "iconName": "FarHardDrive",
+    "iconColor": "#050505"
+  },
+  "programming/backendJava/k8s": {
+    "iconName": "SiKubernetes",
+    "iconColor": "#4980ee"
+  },
+  "programming/backendJava/liquibase": {
+    "iconName": "SiLiquibase",
+    "iconColor": "#132df6"
+  },
+  "programming/backendJava/maven": {
+    "iconName": "SiApachemaven",
+    "iconColor": "#c61515"
+  },
+  "programming/backendJava/microservices": {
+    "iconName": "SiAmazonsimpleemailservice",
+    "iconColor": "#48ad59"
+  },
+  "programming/backendJava/networks": {
+    "iconName": "TiNetwork",
+    "iconColor": "#65b3c3"
+  },
+  "programming/backendJava/oracle": {
+    "iconName": "SiOracle",
+    "iconColor": "#d9540d"
+  },
+  "programming/backendJava/patterns": "SiTextpattern",
+  "programming/backendJava/postgresql": {
+    "iconName": "BoBxlPostgresql",
+    "iconColor": "#0e86af"
+  },
+  "programming/backendJava/redis": {
+    "iconName": "SiRedis",
+    "iconColor": "#c31d1d"
+  },
+  "programming/backendJava/spring": {
+    "iconName": "SiSpring",
+    "iconColor": "#37be5f"
+  },
+  "programming/backendJava/testing": {
+    "iconName": "SiTestin",
+    "iconColor": "#5aa300"
+  },
+  "programming/backendJava/Java Developer.md": "CoMainComponent",
+  "programming/backendJava/java-core/collections": "BoBxCollection",
+  "programming/backendJava/java-core/io-nio": "RiInputField",
+  "programming/backendJava/java-core/javaSE": {
+    "iconName": "RiJavaFill",
+    "iconColor": "#c6942a"
+  },
+  "programming/backendJava/java-core/multithriding": "SiThreads",
+  "programming/backendJava/java-core/streamApi": "SiStreamrunners"
+}
