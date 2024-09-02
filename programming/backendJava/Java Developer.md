@@ -5,7 +5,7 @@ tags:
   - in_progress
 related_topics: 
 created: 2024-08-29 16:48
-modified: 2024-08-30T16:46:29+03:00
+modified: 2024-08-31T13:53:50+03:00
 difficulty: expert
 questions: 
 notes: Каждый день превосходи свой предел!
@@ -45,24 +45,23 @@ links:
 [[StringBuilder]]
 [[StringBuffer]]
 ##### [[Exception]]
-##### Generics
-
+##### [[Generics]]
 ##### [[Math]]
-##### Annotations
+##### [[Annotations]]
 ##### [[Сериализация и десериализация]]
-##### Reflection API
-##### Логирование
+##### [[Reflection API]]
+##### [[Логирование]]
 ##### [[Record Class]]
-##### Sealed Class
-##### Date and Time
+##### [[Sealed Class]]
+##### [[Date and Time]]
+##### [[Размер Объектов Java]]
 
-##### Размер Объектов Java
-
-##### SOLID
+##### [[SOLID]]
 
 ## Collections 
 
 ## Stream API
+
 
 ## IO/NIO
 

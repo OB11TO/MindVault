@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51fe992fe064985e",
+            "id": "37dedeed4765068c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record Class.md",
+                "file": "Notion/Stream API/Stream API.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record Class.md",
+                "file": "Notion/Stream API/Stream API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record Class.md",
+                "file": "Notion/Stream API/Stream API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record Class.md"
+                "file": "Notion/Stream API/Stream API.md"
               }
             }
           }
@@ -147,10 +147,37 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "51fe992fe064985e",
+  "active": "37dedeed4765068c",
   "lastOpenFiles": [
+    "2024-08-30.md",
+    "images/Untitled 10.png",
+    "images/Untitled 9.png",
+    "images/Untitled 8.png",
+    "images/Untitled 7.png",
+    "images/Untitled 6.png",
+    "images/Untitled 5 2.png",
+    "images/Untitled 4 2.png",
+    "images/Untitled 3 2.png",
+    "images/Untitled 2 2.png",
+    "images/Untitled 1 2.png",
+    "Notion/Stream API/Stream API.md",
+    "Notion/Stream API",
+    "Notion",
     "programming/backendJava/Java Developer.md",
-    "Record Class.md",
+    "programming/backendJava/java-core/streamApi",
+    "programming/backendJava/java-core/javaSE/Generics.md",
+    "programming/backendJava/java-core/javaSE/SOLID.md",
+    "programming/backendJava/java-core/javaSE/Размер Объектов Java.md",
+    "Notion/Untitled/Untitled.md",
+    "Notion/Untitled",
+    "programming/backendJava/java-core/javaSE/Date and Time.md",
+    "programming/backendJava/java-core/javaSE/Абстракция.md",
+    "programming/backendJava/java-core/javaSE/Sealed Class.md",
+    "programming/backendJava/java-core/javaSE/Логирование.md",
+    "programming/backendJava/java-core/javaSE/Reflection API.md",
+    "programming/backendJava/java-core/javaSE/Annotations.md",
+    "programming/backendJava/java-core/javaSE/Преобразования примитивов.md",
+    "programming/backendJava/java-core/javaSE/Record Class.md",
     "programming/backendJava/java-core/javaSE/Switch конструкции.md",
     "programming/backendJava/java-core/javaSE/StringBuilder.md",
     "programming/backendJava/java-core/javaSE/StringBuffer.md",
@@ -161,40 +188,12 @@
     "programming/backendJava/java-core/javaSE/Exception.md",
     "programming/backendJava/java-core/javaSE/Enum.md",
     "programming/backendJava/java-core/javaSE/Сериализация и десериализация.md",
-    "programming/backendJava/java-core/javaSE/Примитивные типы данных.md",
-    "programming/backendJava/java-core/javaSE/Преобразования примитивов.md",
-    "programming/backendJava/java-core/javaSE/Полиморфизм.md",
-    "programming/backendJava/java-core/javaSE/Перегрузка метода.md",
-    "programming/backendJava/java-core/javaSE/Описание интерфейса CharSequence.md",
-    "programming/backendJava/java-core/javaSE/Одномерный массив.md",
-    "programming/backendJava/java-core/javaSE/Наследование.md",
-    "programming/backendJava/java-core/javaSE/Модификаторы доступа в Java.md",
-    "programming/backendJava/java-core/javaSE/Композиция и агрегация.md",
-    "programming/backendJava/java-core/javaSE/Класс Object.md",
-    "programming/backendJava/java-core/javaSE/Класс Arrays.md",
-    "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
-    "programming/backendJava/java-core/javaSE/Двумерный массив.md",
-    "programming/backendJava/java-core/javaSE/Анонимные внутренние классы.md",
-    "images/Pasted image 20240830163727.png",
-    "images/Pasted image 20240830163102.png",
-    "images/Pasted image 20240830162541.png",
-    "images/Pasted image 20240830162532.png",
-    "images/Pasted image 20240830162522.png",
-    "images/Pasted image 20240830162511.png",
-    "images/Pasted image 20240830162353.png",
-    "images/Pasted image 20240830162335.png",
-    "images/Pasted image 20240830162323.png",
-    "images/Pasted image 20240830162312.png",
     "programming/backendJava/interview",
     "programming/backendJava/javaEE",
     "programming/backendJava/java-core/multithriding",
     "programming/backendJava/java-core/io-nio",
     "programming/backendJava/java-core/streamApi",
     "programming/backendJava/java-core/collections",
-    "programming/backendJava/java-core/javaSE",
-    "programming/backendJava/k8s",
-    "programming/backendJava/microservices",
-    "programming/backendJava/patterns",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
