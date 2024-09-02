@@ -5,7 +5,7 @@ tags:
   - Array
 related_topics: 
 created: 2024-08-30 15:35
-modified: 2024-08-30T18:53:07+03:00
+modified: 2024-09-02T17:37:02+03:00
 difficulty: easy
 questions: 
 notes: 
@@ -15,7 +15,7 @@ links:
 
 java.util.Arrays
 
-`asList()`: создает список из массива.
+`asList()`: создает список из масси`ва.
 При этом изменения в массиве будут видны в возвращаемом списке.
 
 ```java

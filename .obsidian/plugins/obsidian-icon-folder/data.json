@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiJavaLine",
       "SiStreamrunners",
       "SiThreads",
       "RiJavaFill",
-      "BoBxlJava",
-      "RiInputField"
+      "BoBxlJava"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -118,5 +118,10 @@
     "iconColor": "#c6942a"
   },
   "programming/backendJava/java-core/multithriding": "SiThreads",
-  "programming/backendJava/java-core/streamApi": "SiStreamrunners"
+  "programming/backendJava/java-core/streamApi": "SiStreamrunners",
+  "programming/backendJava": {
+    "iconName": "BoBxlJava",
+    "iconColor": "#d19900"
+  },
+  "programming/backendJava/java-core/Java Core.md": "RiJavaLine"
 }

@@ -14,15 +14,15 @@
     "Green2": "#5EBB5AA6"
   },
   "highlighterOrder": [
-    "Pink",
-    "Red",
     "Orange",
     "Yellow",
+    "Green2",
+    "Red",
+    "Purple",
+    "Blue",
+    "Pink",
     "Green",
     "Cyan",
-    "Blue",
-    "Purple",
-    "Grey",
-    "Green2"
+    "Grey"
   ]
 }

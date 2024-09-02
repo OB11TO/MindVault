@@ -2,16 +2,18 @@
 title: Модификаторы доступа в Java
 tags:
   - JavaSE
-related_topics: 
+  - OOP
+related_topics:
+  - "[[Инкапсуляция]]"
 created: 2024-08-30 12:45
-modified: 2024-08-30T16:44:24+03:00
+modified: 2024-09-02T16:44:55+03:00
 difficulty: easy
 questions: 
 notes: 
 links: 
 ---
 ## Краткое описание
-private, public, protected, default (package-private)
+<mark class="hltr-orange">private, public, protected, default (package-private)</mark>
 
 
 ## Полное описание

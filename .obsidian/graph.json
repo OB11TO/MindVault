@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#JavaSE  ",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.5,
-  "nodeSizeMultiplier": 2.3884797617436,
-  "lineSizeMultiplier": 2.17621497224854,
-  "collapse-forces": false,
-  "centerStrength": 0.348958333333333,
-  "repelStrength": 16.1458333333333,
-  "linkStrength": 0.713541666666667,
-  "linkDistance": 292,
-  "scale": 0.5096480541564686,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 1.75885416666667,
+  "lineSizeMultiplier": 1.35052083333333,
+  "collapse-forces": true,
+  "centerStrength": 0.296875,
+  "repelStrength": 16.25,
+  "linkStrength": 0.65625,
+  "linkDistance": 172,
+  "scale": 0.22920135941749725,
   "close": true
 }

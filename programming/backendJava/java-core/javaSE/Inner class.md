@@ -5,7 +5,7 @@ tags:
   - InnerClass
 related_topics: 
 created: 2024-08-30 13:50
-modified: 2024-09-02T15:36:39+03:00
+modified: 2024-09-02T17:17:14+03:00
 difficulty: medium
 questions: 
 notes: 
@@ -40,7 +40,7 @@ links:
 - Нельзя создать объект Door внутри статического метода в классе Car: негде взять ссылку на объект типа Car, который неявно передается в конструктор типа Door.
     
     ```java
-    **ПРАВИЛЬНО**
+    ПРАВИЛЬНО
     public class Car
     {
      public static Door createDoor()
