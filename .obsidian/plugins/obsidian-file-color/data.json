@@ -1,0 +1,17 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "0zSNHQNMCLH-JiF45mawM",
+      "name": "Java",
+      "value": "#ec9b0e"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "programming/backendJava/java-core",
+      "color": "0zSNHQNMCLH-JiF45mawM"
+    }
+  ]
+}

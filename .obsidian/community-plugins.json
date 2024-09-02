@@ -4,5 +4,7 @@
   "unique-attachments",
   "shortcuts-extender",
   "code-block-from-selection",
-  "frontmatter-modified-date"
+  "frontmatter-modified-date",
+  "highlightr-plugin",
+  "obsidian-file-color"
 ]

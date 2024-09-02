@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
+                "file": "programming/backendJava/java-core/javaSE/Наследование.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
+                "file": "programming/backendJava/java-core/javaSE/Наследование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
+                "file": "programming/backendJava/java-core/javaSE/Наследование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Инкапсуляция.md"
+                "file": "programming/backendJava/java-core/javaSE/Наследование.md"
               }
             }
           }
@@ -162,11 +162,13 @@
   },
   "active": "910f222d6ba8299a",
   "lastOpenFiles": [
+    "Notion/Collections.md",
+    "Notion/Тестирование.md",
+    "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
     "programming/backendJava/Java Developer.md",
     "programming/backendJava/java-core/javaSE/Nested class.md",
     "programming/backendJava/java-core/javaSE/Inner class.md",
     "programming/backendJava/java-core/javaSE/Анонимные внутренние классы.md",
-    "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
     "programming/backendJava/java-core/javaSE/Абстракция.md",
     "programming/backendJava/java-core/javaSE/Преобразования примитивов.md",
     "programming/backendJava/java-core/javaSE/Примитивные типы данных.md",
@@ -186,7 +188,6 @@
     "Notion/Patterns.md",
     "Notion/Bash.md",
     "Notion/Git.md",
-    "Notion/Тестирование.md",
     "Notion/Hibernate.md",
     "Notion/Тестирование",
     "Notion/Lombok.md",
@@ -201,7 +202,6 @@
     "Notion/Liquibase.md",
     "Notion/Stream API.md",
     "Notion/Liquibase",
-    "Notion/Redis.md",
     "Notion/Lombok",
     "Notion/Apache Tomcat",
     "Notion/Stream API",
