@@ -101,6 +101,11 @@
       "id": "w7Neob-qBfnflq4XwORgd",
       "name": "interview",
       "value": "#dfe232"
+    },
+    {
+      "id": "BzSzRLzRxD4yxV7JxOK3c",
+      "name": "none2",
+      "value": "#ffffff"
     }
   ],
   "fileColors": [
@@ -185,12 +190,8 @@
       "color": "N5c5fJt3JNiVNkNF3BKDy"
     },
     {
-      "path": "programming/backendJava",
-      "color": "0zSNHQNMCLH-JiF45mawM"
-    },
-    {
       "path": "programming/backendJava/Java Developer.md",
-      "color": "PduIHgiczBsQutCwBi4Wd"
+      "color": "BzSzRLzRxD4yxV7JxOK3c"
     }
   ]
 }

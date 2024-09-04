@@ -2,9 +2,10 @@
 title: Date and Time
 tags:
   - JavaSE
-related_topics: 
+related_topics:
+  - "[[Dmdev Date and Time]]"
 created: 2024-08-31 13:11
-modified: 2024-08-31T13:25:23+03:00
+modified: 2024-09-04T15:51:44+03:00
 difficulty: medium
 questions: 
 notes: 
@@ -20,11 +21,11 @@ links:
 
 ### Общая информация
 
-GMT(Greenwich mean time) - астрономическое время, секунда не точная, зависит от колебаний во вращенни Земли.
+<mark class="hltr-red">GMT(Greenwich mean time)</mark> - <mark class="hltr-yellow">астрономическое время, секунда не точная, зависит от колебаний во вращенни Земли.</mark>
 
-UTC(Coordinated universal time) - атомное время, секунда точная, но их приходится подводить с помощью leap second
+<mark class="hltr-red">UTC(Coordinated universal time) </mark>- <mark class="hltr-yellow">атомное время, секунда точная, но их приходится подводить с помощью leap second</mark>
 
-Unix-Time - Unix время, секунда точная, но часы не подводятся, leap second проблема, она решается синхронизацией по NTP. Система описания моментов во времени, определяется как количество миллисекунд, прошедших с полуночи (00:00:00 UTC) 1 января 1970 года
+<mark class="hltr-red">Unix-Time</mark> - Unix время, <mark class="hltr-yellow">секунда точная, но часы не подводятся, leap second проблема, она решается синхронизацией по NTP.</mark> Система описания моментов во времени, определяется как количество миллисекунд, прошедших с полуночи (00:00:00 UTC) 1 января 1970 года
 
 Unix-Time-JVM - Unix-Time*1000(т.к с миллисекундами)
 
@@ -36,7 +37,7 @@ TimeStamp SQL - Unix-Time*1000_000_000(т.к с наносекундами)
 
 12 a.m полночь
 
-### packaje java.util устаревшие классы
+## packaje java.util устаревшие классы
 
 ### Class Date
 
@@ -215,19 +216,19 @@ Calendar calendar = Calendar.getInstance();
         calendar.set(1970, 0,1,0,0);
 ```
 
-### DateTime Api
+## DateTime Api
 
-Пакет `java.time` — базовый пакет для Java Date Time API: в нем содержатся такие классы как `LocalDate`, `LocalTime`, `LocalDateTime`, `Instant`, `Period`, `Duration`. Все объекты этих классов — `immutable`: их нельзя изменить после создания.
+Пакет `java.time` — базовый пакет для Java Date Time API: в нем содержатся такие классы как `LocalDate`, `LocalTime`, `LocalDateTime`, `Instant`, `Period`, `Duration`. <mark class="hltr-red">Все объекты этих классов</mark> — `immutable`: <mark class="hltr-yellow">их нельзя изменить после создания.</mark>
 
-Пакет `java.time.format` содержит в себе классы для форматирования времени: преобразования времени (и даты) в текстовую строку и обратно. Например, в нем содержится такой универсальный класс как `DateTimeFormatter`, который пришел на смену `SimpleDateFormat`.
+Пакет `java.time.format` содержит в себе<mark class="hltr-yellow"> классы для форматирования времени</mark>: преобразования времени (и даты) в текстовую строку и обратно. Например, в нем содержится такой<mark class="hltr-yellow"> универсальный класс</mark> как `DateTimeFormatter`, который пришел на смену `SimpleDateFormat`.
 
-Пакет `java.time.zone` содержит классы для работы с часовыми поясами (time zones). Он содержит такие классы как `TimeZone` и `ZonedDateTime`. Если вы пишете код для сервера, клиенты которого находятся в разных частях света, эти классы вам очень понадобятся.
+Пакет `java.time.zone` <mark class="hltr-yellow">содержит классы для работы с часовыми поясами</mark> (time zones). Он содержит такие классы как `TimeZone` и `ZonedDateTime`. Если вы пишете код для сервера, клиенты которого находятся в разных частях света, эти классы вам очень понадобятся.
 
 ### Документация, общий список классов
 
 [https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html](https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html)
 
-Все объекты этих классов — `immutable`: их нельзя изменить после создания.
+<mark class="hltr-red">Все объекты этих классов </mark>— `immutable`: <mark class="hltr-red">их нельзя изменить после создания.</mark>
 
 | Name                                                                                      | Description                                                                                                         |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -257,7 +258,7 @@ Calendar calendar = Calendar.getInstance();
 LocalDate today = LocalDate.now();
 ```
 
-- У класса `LocalDate` есть разновидность метода `now(ZoneId)`, который позволяет получить текущую дату в определенном часовом поясе.
+- У класса `LocalDate` есть разновидность метода `now(ZoneId)`, который <mark class="hltr-yellow">позволяет получить текущую дату в определенном часовом поясе.</mark>
 
 Для этого нам понадобится еще один класс — `ZoneId` (java.time.ZoneId). У него есть метод `of()`, который возвращает объект `ZoneId` по имени часового пояса.
 
@@ -308,7 +309,7 @@ System.out.println("Сейчас в Шанхае = " + today);
 
 ![[Untitled (1).png]]
 
-- Класс `LocalDate` содержит несколько методов, которые позволяют работать с датой. Эти методы реализованы по аналогии с методами класса `String`: каждый из этих методов не меняет существующий объект LocalDate, а возвращает новый с нужными данными.
+- Класс `LocalDate` содержит несколько методов, которые позволяют работать с датой. <mark class="hltr-yellow">Эти методы реализованы по аналогии с методами класса</mark> `String`: <mark class="hltr-purple">каждый из этих методов не меняет существующий объект LocalDate, а возвращает новый с нужными данными.</mark>
 
 |`plusDays(int days)`|Добавляет определенное количество дней к дате|
 |---|---|
@@ -414,7 +415,7 @@ LocalDateTime current = LocalDateTime.of(date, time);
 
 ### class Instant
 
-Пришел на замену Date. Хранит в себе количество секунд, прошедших с 1 января 1970 года и количество наносекунд.
+<mark class="hltr-red">Пришел на замену Date</mark>. <mark class="hltr-yellow">Хранит в себе количество секунд, прошедших с 1 января 1970 года и количество наносекунд.</mark>
 
 - Получить объект `Instant` можно точно так же, как объект `LocalTime`:
 
@@ -422,14 +423,14 @@ LocalDateTime current = LocalDateTime.of(date, time);
 Instant timestamp = Instant.now();
 ```
 
-- Также можно создать новый объект с помощью разновидностей метода `of()`, если передать в него время, прошедшее с 1 января 1970 года:
+- Такж<mark class="hltr-yellow">е можно создать новый объект с помощью разновидностей метода</mark> `of()`, если передать в него время, прошедшее с 1 января 1970 года:
 
 |`ofEpochMilli(long milliseconds)`|Нужно передать количество миллисекунд|
 |---|---|
 |`ofEpochSecond(long seconds)`|Нужно передать количество секунд|
 |`ofEpochSecond(long seconds, long nanos)`|Нужно передать секунды и наносекунды|
 
-- Методы,которые возвращают хранящиеся значения:
+- Методы, которые возвращают хранящиеся значения:
 
 |`long getEpochSecond()`|Количество секунд, прошедшее с 1 января 1970 года|
 |---|---|
@@ -459,14 +460,14 @@ for (String s: ZoneId.getAvailableZoneIds())
    System.out.println(s);
 ```
 
-- При создании объекта `ZonedDateTime` нужно вызвать у него статический метод `now()` и передать в него объект `ZoneId`. Если в метод `now()` не передать объект `ZoneId`, а так можно, временная зона будет определена автоматически: на основе настроек компьютера, на котором выполняется программа.
+- При создании объекта `ZonedDateTime` нужно вызвать у него статический метод `now()` и передать в него объект `ZoneId`. Если в метод `now()` <mark class="hltr-yellow">не передать объект</mark> `ZoneId`, а так можно, <mark class="hltr-yellow">временная зона будет определена автоматически: на основе настроек компьютера, на котором выполняется программа.</mark>
 
 ```java
 ZoneId zone = ZoneId.of("Africa/Cairo");
 ZonedDateTime time = ZonedDateTime.now(zone);
 ```
 
-- Одной из интересных особенностей `ZonedDateTime` является возможность его преобразования в локальную дату и время. Пример.
+- Одной из интересных особенностей `ZonedDateTime`<mark class="hltr-green2"> является возможность его преобразования в локальную дату и время. Пример.</mark>
 
 ```java
 ZoneId zone = ZoneId.of("Africa/Cairo");
@@ -481,7 +482,7 @@ LocalDateTime localDateTime = cairoTime.toLocalDateTime();
 
 [https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html](https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html)
 
-- Чтобы создать объект класса `DateTimeFormatter` и передать в него шаблон, по которому будут отображаться дата и время:
+- Чтобы создать объект класса `DateTimeFormatter` и <mark class="hltr-yellow">передать в него шаблон, по которому будут отображаться дата и время:</mark>
 
 ```java
 DateTimeFormatter dtf = DateTimeFormatter.ofPattern(шаблон);

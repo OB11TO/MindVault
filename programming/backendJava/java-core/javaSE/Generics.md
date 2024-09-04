@@ -4,7 +4,7 @@ tags:
   - JavaSE
 related_topics: 
 created: 2024-08-31 13:39
-modified: 2024-08-31T13:47:25+03:00
+modified: 2024-09-04T13:44:35+03:00
 difficulty: 
 questions: 
 notes: 
@@ -53,8 +53,7 @@ stringList.add("abc"); //добавляем строку в список
 
 stringList.add( 1 );**//тут будет ошибка компиляции**
 
-for(Object o: stringList)
-{
+for(Object o: stringList) {
  String s = (String) o;
 }
 
@@ -105,7 +104,7 @@ class Zoo
 }
 ```
 
-При компиляции, все параметры типов (в данном случае `T`) стираются и заменяются на тип `Object`. Это означает, что, несмотря на то, что в исходном коде мы работаем с параметризованными типами, в скомпилированном коде мы работаем с обычными объектами `Object`. Этот процесс называется стиранием типов.
+При компиляции, все параметры типов (в данном случае `T`) стираются и заменяются на тип `Object`. Это означает, что, <mark class="hltr-yellow">несмотря на то, что в исходном коде мы работаем с параметризованными типами, в скомпилированном коде мы работаем с обычными объектами </mark>`Object`. <mark class="hltr-red">Этот процесс называется стиранием типов.</mark>
 
 Таким образом, стирание типов позволяет Java сохранять обратную совместимость с более старыми версиями языка, где Generics не были поддерживаемы. Однако, это ограничивает возможности работы с параметризованными типами на уровне компиляции и требует использования различных механизмов для обхода ограничений стирания типов, таких как wildcard-аргументы, reflection
 
@@ -117,9 +116,11 @@ class Zoo
 public class Zoo<T> {
     List<T> animalList = new ArrayList<>();
     Class<T> clazz;
+    
     Zoo(Class<T> clazz){
     this.clazz = clazz;
     }
+    
     public T createNewAnimal(){
         T animal = null;
         try {
@@ -134,17 +135,17 @@ public class Zoo<T> {
 
 public static void main(String[] args) {
 	Zoo<Tiger> zoo = new Zoo<>(Tiger.class);
-  Tiger tiger = zoo.createNewAnimal();
+    Tiger tiger = zoo.createNewAnimal();
     }
 ```
 
 ## WildCards
 
-Wildcards — это специальный механизм языка Java Generics, который позволяет определить параметры типов нестрого и динамически. Они используются для обозначения типов, которые неизвестны в момент написания кода, но могут быть определены в момент выполнения.
+<mark class="hltr-red">Wildcards</mark> — э<mark class="hltr-yellow">то специальный механизм языка Java Generics, который позволяет определить параметры типов нестрого и динамически.</mark> Они используются для обозначения типов, которые неизвестны в момент написания кода, но могут быть определены в момент выполнения.
 
-Существует три разновидности Wildcards:
+<mark class="hltr-purple">Существует три разновидности Wildcards:</mark>
 
-- `? extends T`: ограничивает тип сверху (upper bounded wildcard). Этот wildcard принимает все типы, которые являются подтипами типа T. Например, если у нас есть класс `Animal`, а класс `Dog` является его наследником, то мы можем использовать `? extends Animal` как тип для параметра метода, который принимает все объекты, которые являются экземплярами класса `Animal` или его наследников.
+- `? extends T`: <mark class="hltr-yellow">ограничивает тип сверху</mark> (upper bounded wildcard). Этот wildcard принимает все типы, которые являются подтипами типа T. Например, если у нас есть класс `Animal`, а класс `Dog` является его наследником, то мы можем использовать `? extends Animal` как тип для параметра метода, который принимает все объекты, которые являются экземплярами класса `Animal` или его наследников.
 
 ```java
 public static void printAnimals(List<? extends Animal> animals) {
@@ -154,7 +155,7 @@ public static void printAnimals(List<? extends Animal> animals) {
 }
 ```
 
-- `? super T`: ограничивает тип снизу (lower bounded wildcard). Этот wildcard принимает все типы, которые являются супертипами типа T. Например, если у нас есть класс `Animal`, а класс `Dog` является его наследником, то мы можем использовать `? super Dog` как тип для параметра метода, который принимает все объекты, которые являются экземплярами класса `Dog` или его родительских классов. Наследники класса Dog передавать в список нельзя.
+- `? super T`: <mark class="hltr-yellow">ограничивает тип снизу</mark> (lower bounded wildcard). Этот wildcard принимает все типы, которые являются супертипами типа T. Например, если у нас есть класс `Animal`, а класс `Dog` является его наследником, то мы можем использовать `? super Dog` как тип для параметра метода, который принимает все объекты, которые являются экземплярами класса `Dog` или его родительских классов. Наследники класса Dog передавать в список нельзя.
 
 ```java
 public static void addDog(List<? super Dog> animals) {
@@ -230,9 +231,9 @@ list.add(new Myclass); // тут сломается
 }
 ```
 
-Потому что в качестве аргумента в функцию может прилететь не List\<MyClass>, a List наследник MyClass, и в него уже передать родителя нельзя.
+Потому что в качестве аргумента в <mark class="hltr-yellow">функцию может прилететь не</mark> List\<MyClass>, <mark class="hltr-yellow">a List наследник MyClass, и в него уже передать родителя нельзя.</mark>
 
-Чтобы решить эту проблему необходимо использовать super, так как тогда в функцию можно передать либо List\<MyClass> либо список родителя MyClass.
+Чтобы решить эту проблему <mark class="hltr-yellow">необходимо использовать super</mark>, так как тогда в функцию можно передать либо List\<MyClass> либо список родителя MyClass.
 
 ```java
 public void do(List<?super Myclass list){
@@ -252,4 +253,55 @@ list.add(new Myclass); // тут работает
 }
 ```
 
-Потому что в качестве аргумента в функцию может поступить класс Object, и перебор по MyClass невозможен.
+<mark class="hltr-yellow">Потому что в качестве аргумента в функцию может поступить класс Object, и перебор по MyClass невозможен.</mark>
+
+
+
+
+![[images/Untitled 159.png|Untitled 159.png]]
+
+![[images/Untitled 1 20.png|Untitled 1 20.png]]
+
+![[images/Untitled 2 18.png|Untitled 2 18.png]]
+
+![[images/Untitled 3 17.png|Untitled 3 17.png]]
+
+### Наследование и расширители обобщений 
+
+  
+![[images/Untitled 4 17.png|Untitled 4 17.png]]
+
+- Параметризация на уровне метода. (Такая же как у класса).
+- Какой дженерик у `Hero<World>` значит можно передать людей `Class extends Herro`, но чтобы у этого класса был `<World>`
+- Параметризация на уровне метода. \<T> решает эту проблему
+
+### Wildcard
+
+![[images/Untitled 5 17.png|Untitled 5 17.png]]
+
+- Не так удобно оперировать, как с параметризацией на уровне метода
+- Consumer -super / Produser - extends
+
+  
+
+  
+
+![[images/Untitled 6 16.png|Untitled 6 16.png]]
+
+![[images/Untitled 7 15.png|Untitled 7 15.png]]
+
+Вопрос про 3 тип
+
+![[images/Untitled 8 14.png|Untitled 8 14.png]]
+
+![[images/Untitled 9 14.png|Untitled 9 14.png]]
+
+![[images/Untitled 10 12.png|Untitled 10 12.png]]
+
+![[images/Untitled 11 12.png|Untitled 11 12.png]]
+
+![[images/Untitled 12 12.png|Untitled 12 12.png]]
+
+  
+
+![[images/Untitled 13 12.png|Untitled 13 12.png]]

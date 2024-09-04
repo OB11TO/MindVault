@@ -4,7 +4,7 @@ tags:
   - JavaSE
 related_topics: 
 created: 2024-09-02 18:05
-modified: 2024-09-02T18:42:33+03:00
+modified: 2024-09-04T17:15:08+03:00
 difficulty: 
 questions: 
 notes: 
@@ -36,6 +36,7 @@ links:
 [[Описание интерфейса CharSequence]]
 [[CharBuffer and Segment]]
 [[String]]
+[[Строковый литерал и конструктор в String]]
 [[Дедупликация Собственный пул строк]]
 [[Компактные строки Java 9]]
 [[StringBuilder]]
@@ -45,16 +46,79 @@ links:
 ##### [[Math]]
 ##### [[Annotations]]
 ##### [[Сериализация и десериализация]]
+
+##### [[Разница между Jackson and Serialaze]]
 ##### [[Reflection API]]
 ##### [[Логирование]]
 ##### [[Record Class]]
 ##### [[Sealed Class]]
 ##### [[Date and Time]]
+##### [[Dmdev Date and Time]]
 ##### [[Размер Объектов Java]]
 
 ##### [[SOLID]]
 
+##### [[Утилитный класс ]]
+
+##### [[Изменяемый класс ]]
+
+##### [[Неизменяемый класс ]]
+
 # Collections 
+#### Collection
+[[Interface Collection]]
+[[Interface Iterable]]
+[[Interface Iterator]]
+[[ListIterator extends Iterator]]
+[[Interfaces Comparable and Comparator]]
+[[Interface Spliterator]]
+##### List
+[[Interface List]]
+
+[[Vector and Stack]]
+[[ArrayList]]
+[[LinkedList]]
+
+##### Set
+[[Interface Set]]
+[[Interface NavigableSet]]
+[[Interface SortedSet]]
+
+[[HashSet]]
+[[EnumSet]]
+[[TreeSet]]
+
+##### Queue
+[[Interface Queue]]
+
+[[ArrayDeque]]
+[[PriorityQueue]]
+[[SynchronousQueue]]
+[[PriorityBlockingQueue]]
+[[LinkedTransferQueue]]
+[[LinkedBlockingQueue]]
+[[LinkedBlockingDeque]]
+[[Разница между ConcurrentLinkedDeque]]
+[[ArrayBlockingQueue]]
+[[ConcurrentLinkedDeque]]
+
+#### Map
+[[Interface Map]]
+
+[[HashMap]]
+[[LinkedHashMap]]
+[[TreeMap]]
+[[WeakHashMap]]
+[[IdentityHashMap]]
+[[EnumMap]]
+[[ConcurrentSkipListMap]]
+[[ConcurrentHashMap]]
+
+[[Hashtable]]
+
+#### Класс Collections
+[[java.util.Collections]]
+
 # Stream API
 
 # IO/NIO

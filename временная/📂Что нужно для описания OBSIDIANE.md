@@ -1,6 +1,6 @@
 ---
 tags: []
-modified: 2024-08-30T10:59:33+03:00
+modified: 2024-09-04T14:10:43+03:00
 ---
 1) Создать тэги - Java Core и тд.
 2) Создать Время начала и обновления файла
@@ -16,3 +16,19 @@ modified: 2024-08-30T10:59:33+03:00
 Добавить тэг `статус`, добавить тэг `усвоение`
 
 ![[Pasted image 20240830105118.png]]
+
+
+
+
+Закрытие повторений 
+1) Java SE - 8 часов 
+2) Java EE - 8 часов
+3) Gradle/Maven/Groovy - 8 часов 
+4) bash/docker/testing - 8 часов
+5) git/networks - 8 часов
+6) postgres/oracle/redis/ - 16 часов
+7) jdbc/hibernate - 16 часов
+8) liquibase/flayway - 4 часа 
+9) spring - 24 часа+
+10) patterns/microservises 
+11) kafka 

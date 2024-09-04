@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/Java Developer.md",
+                "file": "programming/backendJava/java-core/Java Core.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec385cda836474df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ccc198a7e766bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Collections.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/Java Developer.md",
+                "file": "programming/backendJava/java-core/Java Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/Java Developer.md",
+                "file": "programming/backendJava/java-core/Java Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/Java Developer.md"
+                "file": "programming/backendJava/java-core/Java Core.md"
               }
             }
           }
@@ -147,44 +165,44 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "1674498dd35ecebd",
+  "active": "a3f1da65a8773f2c",
   "lastOpenFiles": [
-    "programming/backendJava/java-core/javaSE/Дедупликация Собственный пул строк.md",
-    "programming/backendJava/java-core/javaSE/SOLID.md",
-    "programming/backendJava/java-core/Java Core.md",
-    "programming/backendJava/Java Developer.md",
-    "programming/backendJava/interview/Абстрактные класс vs Интерфейс.md",
-    "programming/backendJava/java-core/javaSE/String.md",
-    "programming/backendJava/java-core/javaSE/Компактные строки Java 9.md",
-    "programming/backendJava/java-core/javaSE/Описание интерфейса CharSequence.md",
-    "programming/backendJava/java-core/javaSE/Двумерный массив.md",
-    "programming/backendJava/java-core/javaSE/Одномерный массив.md",
-    "programming/backendJava/java-core/javaSE/Класс Arrays.md",
-    "programming/backendJava/java-core/javaSE/Switch конструкции.md",
-    "programming/backendJava/java-core/javaSE/Enum.md",
-    "programming/backendJava/java-core/javaSE/Класс Object.md",
-    "programming/backendJava/java-core/javaSE/Анонимные внутренние классы.md",
-    "programming/backendJava/java-core/javaSE/Nested class.md",
-    "programming/backendJava/java-core/javaSE/Inner class.md",
-    "programming/backendJava/java-core/javaSE/Композиция и агрегация.md",
-    "programming/backendJava/java-core/javaSE/Преобразования примитивов.md",
-    "programming/backendJava/java-core/javaSE/Перегрузка метода.md",
-    "programming/backendJava/java-core/javaSE/Полиморфизм.md",
-    "programming/backendJava/java-core/javaSE/Наследование.md",
-    "programming/backendJava/java-core/javaSE/Модификаторы доступа в Java.md",
-    "programming/backendJava/java-core/javaSE/Инкапсуляция.md",
-    "programming/backendJava/java-core/javaSE/Абстракция.md",
     "Notion/Collections.md",
-    "images/s.png",
-    "images/Untitled 43 6.png",
-    "images/Untitled 42 6.png",
-    "images/Untitled 41 6.png",
-    "images/Untitled 40 6.png",
-    "images/Untitled 39 6.png",
-    "images/Untitled 38 6.png",
-    "images/Untitled 37 6.png",
-    "images/Untitled 36 6.png",
-    "images/Untitled 35 6.png",
+    "programming/backendJava/java-core/Java Core.md",
+    "programming/backendJava/java-core/collections/WeakHashMap.md",
+    "programming/backendJava/java-core/collections/Interface Iterable.md",
+    "programming/backendJava/java-core/javaSE/Date and Time.md",
+    "programming/backendJava/java-core/javaSE/Dmdev Date and Time.md",
+    "images/Pasted image 20240904162139.png",
+    "images/Pasted image 20240904162120.png",
+    "images/Pasted image 20240904161647.png",
+    "images/Pasted image 20240904161257.png",
+    "images/Pasted image 20240904161040.png",
+    "images/Pasted image 20240904160916.png",
+    "images/Pasted image 20240904160734.png",
+    "images/Pasted image 20240904160614.png",
+    "images/Pasted image 20240904160427.png",
+    "images/Pasted image 20240904160344.png",
+    "programming/backendJava/java-core/javaSE/SOLID.md",
+    "programming/backendJava/java-core/javaSE/Размер Объектов Java.md",
+    "programming/backendJava/java-core/javaSE/Sealed Class.md",
+    "programming/backendJava/java-core/javaSE/Record Class.md",
+    "programming/backendJava/java-core/javaSE/Логирование.md",
+    "programming/backendJava/java-core/javaSE/Reflection API.md",
+    "programming/backendJava/java-core/javaSE/Разница между Jackson and Serialaze.md",
+    "programming/backendJava/java-core/javaSE/Сериализация и десериализация.md",
+    "временная/📂Что нужно для описания OBSIDIANE.md",
+    "programming/backendJava/java-core/javaSE/Annotations.md",
+    "programming/backendJava/java-core/javaSE/Generics.md",
+    "Notion/Дженерики.md",
+    "programming/backendJava/java-core/javaSE/Math.md",
+    "programming/backendJava/java-core/javaSE/Exception.md",
+    "programming/backendJava/java-core/javaSE/StringBuffer.md",
+    "programming/backendJava/java-core/javaSE/StringBuilder.md",
+    "programming/backendJava/java-core/javaSE/Дедупликация Собственный пул строк.md",
+    "programming/backendJava/java-core/javaSE/Компактные строки Java 9.md",
+    "programming/backendJava/java-core/javaSE/Строковый литерал и конструктор в String.md",
+    "programming/backendJava/java-core/javaSE/String.md",
     "Notion/Тестирование",
     "Notion/Hibernate",
     "Notion/Algorithm",
