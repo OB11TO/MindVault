@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Дедупликация Собственный пул строк.md",
+                "file": "programming/backendJava/Java Developer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Дедупликация Собственный пул строк.md",
+                "file": "programming/backendJava/Java Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Дедупликация Собственный пул строк.md",
+                "file": "programming/backendJava/Java Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/java-core/javaSE/Дедупликация Собственный пул строк.md"
+                "file": "programming/backendJava/Java Developer.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "1674498dd35ecebd",
   "lastOpenFiles": [
+    "programming/backendJava/java-core/javaSE/Дедупликация Собственный пул строк.md",
     "programming/backendJava/java-core/javaSE/SOLID.md",
     "programming/backendJava/java-core/Java Core.md",
     "programming/backendJava/Java Developer.md",
     "programming/backendJava/interview/Абстрактные класс vs Интерфейс.md",
-    "programming/backendJava/java-core/javaSE/Дедупликация Собственный пул строк.md",
     "programming/backendJava/java-core/javaSE/String.md",
     "programming/backendJava/java-core/javaSE/Компактные строки Java 9.md",
     "programming/backendJava/java-core/javaSE/Описание интерфейса CharSequence.md",
