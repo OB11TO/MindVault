@@ -4,7 +4,7 @@ tags:
   - JavaSE
 related_topics: 
 created: 2024-09-02 18:05
-modified: 2024-09-04T17:15:08+03:00
+modified: 2024-09-09T18:25:02+03:00
 difficulty: 
 questions: 
 notes: 
@@ -84,7 +84,10 @@ links:
 [[Interface NavigableSet]]
 [[Interface SortedSet]]
 
+[[CopyOnWriteArraySet]]
+[[ConcurrentSkipListSet]]
 [[HashSet]]
+[[LinkedHashSet]]
 [[EnumSet]]
 [[TreeSet]]
 
@@ -120,6 +123,7 @@ links:
 [[java.util.Collections]]
 
 # Stream API
+
 
 # IO/NIO
 
