@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#JavaSE  ",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 8013896
       }
+    },
+    {
+      "query": "tag:#Collection ",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 16.25,
   "linkStrength": 0.65625,
   "linkDistance": 172,
-  "scale": 0.22920135941749875,
+  "scale": 0.22920135941749992,
   "close": false
 }

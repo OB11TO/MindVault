@@ -123,5 +123,6 @@
     "iconName": "BoBxlJava",
     "iconColor": "#d19900"
   },
-  "programming/backendJava/java-core/Java Core.md": "RiJavaLine"
+  "programming/backendJava/java-core/Java Core.md": "RiJavaLine",
+  "programming/backendJava/interview/Почему в цикле for нельзя обновить коллекцию.md": "RiJavaFill"
 }

@@ -1,28 +1,6 @@
 ---
-modified: 2024-09-04T17:13:06+03:00
+modified: 2024-09-09T15:54:40+03:00
 ---
-# Interface Collection
-
-[https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html)
-
-![[images/Untitled 11.png|Untitled 11.png]]
-
-Родитель интерфейс - Iterable\<E>
-
-Не работают с примитивными типами, только с классами обертками.
-
-Для правильного поиска объектов в коллекциях необходимо переопределять equals и hashcode.
-
-Для правильной сортировки объектов необходимо, чтобы класс имплементировал Comparable, вызывая метод сортировки, можно передавать в аргументы Comparator
-
-  
-
-All Known Subinterfaces:
-[BeanContext](https://docs.oracle.com/javase/8/docs/api/java/beans/beancontext/BeanContext.html)
-[BeanContextServices](https://docs.oracle.com/javase/8/docs/api/java/beans/beancontext/BeanContextServices.html), 
-[BlockingDeque](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/BlockingDeque.html)\<E>, [BlockingQueue](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/BlockingQueue.html)\<E>, [Deque](https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html\)\<E>, [List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)\<E>, [NavigableSet](https://docs.oracle.com/javase/8/docs/api/java/util/NavigableSet.html)\<E>, [Queue](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html)\<E>, [Set](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html)\<E>, [SortedSet](https://docs.oracle.com/javase/8/docs/api/java/util/SortedSet.html)\<E>, [TransferQueue](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/TransferQueue.html)\<E>
-
-![[images/Untitled 1 3.png|Untitled 1 3.png]]
 
 ## Interface Iterable
 
@@ -145,7 +123,7 @@ while (iterator.hasNext()) {
 
 [`E`](https://docs.oracle.com/javase/8/docs/api/java/util/ListIterator.html) [`previous`](https://docs.oracle.com/javase/8/docs/api/java/util/ListIterator.html#previous--)`()` возвращает предыдущий элемент списка. Если в списке больше нет элементов, будет выброшено исключение `NoSuchElementException`.
 
-`int` [`previousIndex`](https://docs.oracle.com/javase/8/docs/api/java/util/ListIterator.html#previousIndex--)`()` возвращает индекс предыдущего элемента.
+`int` [`previousIndex`](https://docs.oracle.com/javase/8/docs/api/java/util/ListIterator.html#previousIndex--)`()` возвращает индекс предыдущего элемента, если он имеется.
 
 `void` [`set`](https://docs.oracle.com/javase/8/docs/api/java/util/ListIterator.html#set-E-)`(`[`E`](https://docs.oracle.com/javase/8/docs/api/java/util/ListIterator.html) `e)` аменяет последний элемент, который был возвращен методом `next()` или `previous()`, на указанный элемент.
 

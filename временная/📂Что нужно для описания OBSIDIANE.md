@@ -1,6 +1,6 @@
 ---
 tags: []
-modified: 2024-09-04T14:10:43+03:00
+modified: 2024-09-09T13:59:52+03:00
 ---
 1) Создать тэги - Java Core и тд.
 2) Создать Время начала и обновления файла
@@ -30,5 +30,5 @@ modified: 2024-09-04T14:10:43+03:00
 7) jdbc/hibernate - 16 часов
 8) liquibase/flayway - 4 часа 
 9) spring - 24 часа+
-10) patterns/microservises 
-11) kafka 
+10) kafka 
+11)  patterns/microservises 

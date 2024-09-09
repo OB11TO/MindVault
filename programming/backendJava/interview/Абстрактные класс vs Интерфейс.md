@@ -1,5 +1,14 @@
 ---
-modified: 2024-08-30T12:39:29+03:00
+title: Абстрактные класс vs Интерфейс
+tags:
+  - JavaSE
+related_topics: 
+created: 2024-09-09 16:17
+modified: 2024-09-09T16:17:47+03:00
+difficulty: 
+questions: 
+notes: 
+links: 
 ---
 
 

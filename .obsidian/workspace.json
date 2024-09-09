@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "770d72401504d194",
+        "id": "bc99ab75db924125",
         "type": "tabs",
+        "dimension": 45.98726114649681,
         "children": [
           {
-            "id": "1674498dd35ecebd",
+            "id": "cce97df5184dcb33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/java-core/Java Core.md",
+                "file": "Notion/Collections.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +23,17 @@
         ]
       },
       {
-        "id": "ec385cda836474df",
+        "id": "7a84c5a7595b36be",
         "type": "tabs",
+        "dimension": 54.01273885350319,
         "children": [
           {
-            "id": "2ccc198a7e766bcc",
+            "id": "4b8403406db19eec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Collections.md",
+                "file": "Interface List.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/java-core/Java Core.md",
+                "file": "Interface List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/java-core/Java Core.md",
+                "file": "Interface List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/java-core/Java Core.md"
+                "file": "Interface List.md"
               }
             }
           }
@@ -152,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,44 +168,44 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "a3f1da65a8773f2c",
+  "active": "4b8403406db19eec",
   "lastOpenFiles": [
-    "Notion/Collections.md",
     "programming/backendJava/java-core/Java Core.md",
-    "programming/backendJava/java-core/collections/WeakHashMap.md",
+    "Interface List.md",
+    "programming/backendJava/java-core/collections/Interface Spliterator.md",
+    "programming/backendJava/java-core/collections/Interface Iterator.md",
+    "Notion/Collections.md",
+    "programming/backendJava/java-core/collections/Interfaces Comparable and Comparator.md",
+    "programming/backendJava/java-core/collections/ListIterator extends Iterator.md",
+    "templates/programming.md",
+    "images/Pasted image 20240909162005.png",
+    "templates/interview.md",
+    "programming/backendJava/interview/Почему в цикле for нельзя обновить коллекцию.md",
+    "programming/backendJava/interview/Зачем делать класс final.md",
+    "programming/backendJava/interview/Абстрактные класс vs Интерфейс.md",
     "programming/backendJava/java-core/collections/Interface Iterable.md",
-    "programming/backendJava/java-core/javaSE/Date and Time.md",
-    "programming/backendJava/java-core/javaSE/Dmdev Date and Time.md",
-    "images/Pasted image 20240904162139.png",
-    "images/Pasted image 20240904162120.png",
-    "images/Pasted image 20240904161647.png",
-    "images/Pasted image 20240904161257.png",
-    "images/Pasted image 20240904161040.png",
-    "images/Pasted image 20240904160916.png",
-    "images/Pasted image 20240904160734.png",
-    "images/Pasted image 20240904160614.png",
-    "images/Pasted image 20240904160427.png",
-    "images/Pasted image 20240904160344.png",
-    "programming/backendJava/java-core/javaSE/SOLID.md",
-    "programming/backendJava/java-core/javaSE/Размер Объектов Java.md",
-    "programming/backendJava/java-core/javaSE/Sealed Class.md",
-    "programming/backendJava/java-core/javaSE/Record Class.md",
-    "programming/backendJava/java-core/javaSE/Логирование.md",
-    "programming/backendJava/java-core/javaSE/Reflection API.md",
-    "programming/backendJava/java-core/javaSE/Разница между Jackson and Serialaze.md",
-    "programming/backendJava/java-core/javaSE/Сериализация и десериализация.md",
+    "programming/backendJava/java-core/collections/Interface Collection.md",
+    "images/Pasted image 20240909155559.png",
+    "images/Pasted image 20240909155549.png",
+    "images/Pasted image 20240909155547.png",
+    "images/Pasted image 20240909155222.png",
+    "images/Pasted image 20240909155124.png",
+    "images/Pasted image 20240909155101.png",
+    "images/Pasted image 20240909155018.png",
+    "images/Pasted image 20240909154855.png",
+    "images/Pasted image 20240909154844.png",
+    "Notion/Patterns.md",
     "временная/📂Что нужно для описания OBSIDIANE.md",
-    "programming/backendJava/java-core/javaSE/Annotations.md",
+    "Notion/Собеседования.md",
     "programming/backendJava/java-core/javaSE/Generics.md",
     "Notion/Дженерики.md",
-    "programming/backendJava/java-core/javaSE/Math.md",
-    "programming/backendJava/java-core/javaSE/Exception.md",
-    "programming/backendJava/java-core/javaSE/StringBuffer.md",
-    "programming/backendJava/java-core/javaSE/StringBuilder.md",
-    "programming/backendJava/java-core/javaSE/Дедупликация Собственный пул строк.md",
-    "programming/backendJava/java-core/javaSE/Компактные строки Java 9.md",
-    "programming/backendJava/java-core/javaSE/Строковый литерал и конструктор в String.md",
-    "programming/backendJava/java-core/javaSE/String.md",
+    "programming/backendJava/java-core/javaSE/Побег ссылки this на этапе конструирования.md",
+    "programming/backendJava/java-core/javaSE/Неизменяемый класс.md",
+    "Побег ссылки `this` на этапе конструирования.md",
+    "programming/backendJava/java-core/javaSE/Изменяемый класс.md",
+    "programming/backendJava/java-core/javaSE/Утилитный класс.md",
+    "programming/backendJava/java-core/javaSE/SOLID.md",
+    "programming/backendJava/java-core/javaSE/Размер Объектов Java.md",
     "Notion/Тестирование",
     "Notion/Hibernate",
     "Notion/Algorithm",
