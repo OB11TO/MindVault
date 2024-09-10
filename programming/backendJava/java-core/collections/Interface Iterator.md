@@ -7,7 +7,7 @@ related_topics:
   - "[[Interface Spliterator]]"
   - "[[ListIterator extends Iterator]]"
 created: 2024-09-09 15:56
-modified: 2024-09-09T16:50:55+03:00
+modified: 2024-09-10T13:53:11+03:00
 difficulty: 
 questions: 
 notes: 
@@ -70,3 +70,7 @@ while (iterator.hasNext()) {
     iterator.remove();
 }
 ```
+
+
+
+![[images/Untitled 6 17.png|Untitled 6 17.png]]![[images/Untitled 7 16.png|Untitled 7 16.png]]![[images/Untitled 8 15.png|Untitled 8 15.png]]

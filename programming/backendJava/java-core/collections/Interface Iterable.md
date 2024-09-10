@@ -4,8 +4,9 @@ tags:
   - Collection
 related_topics:
   - "[[Interface Iterator]]"
+  - "[[Interface Collection]]"
 created: 2024-09-09 15:53
-modified: 2024-09-09T15:56:58+03:00
+modified: 2024-09-10T13:44:15+03:00
 difficulty: 
 questions: 
 notes: 

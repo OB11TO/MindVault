@@ -5,7 +5,7 @@ tags:
   - List
 related_topics: 
 created: 2024-09-09 17:01
-modified: 2024-09-09T17:06:05+03:00
+modified: 2024-09-10T13:48:12+03:00
 questions: 
 notes: 
 links: 
@@ -229,3 +229,6 @@ System.out.println(list); // [1, 2, 10, 4, 5]
 ```Java
 Employee [] array = (Employee[]) employees.toArray();
 ```
+
+
+![[images/Untitled 160.png|Untitled 160.png]]

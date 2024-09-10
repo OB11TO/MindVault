@@ -2,9 +2,12 @@
 title: Interface Collection
 tags:
   - Collection
-related_topics: 
+related_topics:
+  - "[[Interface List]]"
+  - "[[Interface Set]]"
+  - "[[Interface Queue]]"
 created: 2024-09-09 15:35
-modified: 2024-09-09T15:52:33+03:00
+modified: 2024-09-10T13:44:37+03:00
 difficulty: 
 questions: 
 notes: 

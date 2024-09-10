@@ -5,7 +5,7 @@ tags:
   - List
 related_topics: 
 created: 2024-09-09 17:10
-modified: 2024-09-09T17:14:00+03:00
+modified: 2024-09-10T13:50:56+03:00
 questions: 
 notes: 
 links: 
@@ -86,7 +86,7 @@ private class DescendingIterator implements Iterator<E> {
 
 - [`E`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) [`element`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html#element--)`()` возвращает первый элемент в списке, метод queue
 - [`E`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) [`getFirst`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html#getFirst--)`()` возвращает первый элемент в списке.
-- [`E`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) [`getLast`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html#getLast--)`()` возвращает последний элементв списке
+- [`E`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) [`getLast`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html#getLast--)`()` возвращает последний элементов списке
 - `boolean` [`offer`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html#offer-E-)`(`[`E`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) `e)`и `boolean` [`offerLast`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html#offerLast-E-)`(`[`E`](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) `e)` добавляет элемент в конец списка.
 
 ```Java
@@ -153,4 +153,4 @@ LinkedList<Integer> list = new LinkedList<>(Arrays.asList(1,2,3,4,5,6,7,8,9,10,1
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
-  
+  ![[images/Untitled 3 18.png|Untitled 3 18.png]]![[images/Untitled 4 18.png|Untitled 4 18.png]]![[images/Untitled 5 18.png|Untitled 5 18.png]]
