@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "d72822dd13171659",
+        "id": "039155c14acfc75e",
         "type": "tabs",
+        "dimension": 43.74201787994891,
         "children": [
           {
             "id": "6475f704353ccd5f",
@@ -13,98 +14,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/java-core/Java Core.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "002d4d778e1c7663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/java-core/Java Core.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6efb511d305e5c93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/java-core/collections/Interface Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "361fc8adbd418bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/java-core/collections/TreeSet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1a668f96503b16e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/java-core/collections/TreeMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fed4d254f8c81a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/java-core/collections/LinkedHashMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecdbec525c2eb262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/java-core/collections/HashMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bb36fbd64f49ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/java-core/collections/Interface Iterator.md",
+                "file": "Notion/IO-NIO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "03d2e541fd0aba60",
+        "type": "tabs",
+        "dimension": 56.25798212005109,
+        "children": [
+          {
+            "id": "cfafb2282bf6c684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/java-core/Java Core.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ece39a4bb476c9b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/java-core/collections/Interface Map.md",
+                "file": "programming/backendJava/java-core/Java Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/java-core/collections/Interface Map.md",
+                "file": "programming/backendJava/java-core/Java Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/java-core/collections/Interface Map.md"
+                "file": "programming/backendJava/java-core/Java Core.md"
               }
             }
           }
@@ -233,44 +176,44 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "6efb511d305e5c93",
+  "active": "cfafb2282bf6c684",
   "lastOpenFiles": [
+    "OpenOption.md",
+    "Notion/IO-NIO.md",
     "programming/backendJava/java-core/Java Core.md",
-    "Notion/Collection.md",
-    "programming/backendJava/java-core/collections/Interface Map.md",
-    "programming/backendJava/java-core/collections/TreeSet.md",
-    "programming/backendJava/java-core/collections/TreeMap.md",
-    "programming/backendJava/java-core/collections/LinkedHashMap.md",
-    "programming/backendJava/java-core/collections/HashMap.md",
-    "programming/backendJava/java-core/collections/Interface Iterator.md",
-    "programming/backendJava/java-core/collections/LinkedList.md",
-    "programming/backendJava/java-core/collections/Interface NavigableSet.md",
-    "programming/backendJava/java-core/collections/Interface Set.md",
-    "programming/backendJava/interview/Без названия.md",
-    "programming/backendJava/java-core/collections/ArrayList.md",
-    "images/Untitled 23 8.png",
-    "images/Untitled 22 8.png",
-    "images/Untitled 21 8.png",
-    "images/Untitled 20 8.png",
-    "images/Untitled 19 8.png",
-    "images/Untitled 18 8.png",
-    "images/Untitled 17 9.png",
-    "images/Untitled 16 9.png",
-    "images/Untitled 15 10.png",
-    "images/Untitled 14 10.png",
-    "programming/backendJava/java-core/collections/Interface Collection.md",
-    "programming/backendJava/java-core/collections/Interface Iterable.md",
-    "programming/backendJava/interview/Структуры данных в java, где можно хранить null.md",
-    "programming/backendJava/java-core/collections/WeakHashMap.md",
-    "programming/backendJava/java-core/collections/PriorityBlockingQueue.md",
-    "programming/backendJava/java-core/collections/SynchronousQueue.md",
-    "programming/backendJava/java-core/collections/PriorityQueue.md",
-    "programming/backendJava/java-core/collections/ArrayDeque.md",
-    "programming/backendJava/java-core/collections/Interface Queue.md",
-    "programming/backendJava/java-core/collections/EnumSet.md",
-    "programming/backendJava/java-core/collections/LinkedHashSet.md",
-    "programming/backendJava/java-core/collections/HashSet.md",
-    "programming/backendJava/java-core/collections/ConcurrentSkipListSet.md",
+    "programming/backendJava/java-core/io-nio/Input-Output.md",
+    "FileSystems.md",
+    "FileAttribute.md",
+    "FileSystem.md",
+    "Paths.md",
+    "Path.md",
+    "Отличия Files от File.md",
+    "Files.md",
+    "images/Pasted image 20240910182431.png",
+    "images/Pasted image 20240910182423.png",
+    "images/Pasted image 20240910182411.png",
+    "images/Pasted image 20240910182401.png",
+    "images/Pasted image 20240910182349.png",
+    "images/Pasted image 20240910182336.png",
+    "SelectionKey.md",
+    "Selector.md",
+    "FileLock.md",
+    "programming/backendJava/java-core/io-nio/Channel.md",
+    "programming/backendJava/java-core/io-nio/Buffer.md",
+    "programming/backendJava/java-core/io-nio/File.md",
+    "programming/backendJava/java-core/io-nio/try-with-resources.md",
+    "programming/backendJava/java-core/io-nio/Interfaces.md",
+    "programming/backendJava/java-core/io-nio/New Input-Output.md",
+    "programming/backendJava/java-core/io-nio/Reader.md",
+    "programming/backendJava/java-core/io-nio/InputStream.md",
+    "programming/backendJava/java-core/io-nio/Когда использовать flush с потоками.md",
+    "programming/backendJava/java-core/io-nio/Writer.md",
+    "programming/backendJava/java-core/io-nio/OutputStream.md",
+    "programming/backendJava/java-core/io-nio/Как работает BufferedInputStream и BufferedOutputStream в Java.md",
+    "images/Pasted image 20240910150635.png",
+    "images/Pasted image 20240910144800.png",
+    "images/Pasted image 20240910144448.png",
+    "images/Pasted image 20240910144331.png",
     "programming/backendJava/kafka",
     "Notion/Тестирование",
     "Notion/Hibernate",

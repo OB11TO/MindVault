@@ -4,7 +4,7 @@ tags:
   - JavaSE
 related_topics: 
 created: 2024-09-02 18:05
-modified: 2024-09-10T11:50:50+03:00
+modified: 2024-09-10T18:14:01+03:00
 difficulty: 
 questions: 
 notes: 
@@ -125,8 +125,6 @@ links:
 # Stream API
 
 [[Aнонимные классы]]
-[[Функциональный интерфейс]]
-[[Lambda]]
 [[Функциональные интерфейсы. Ссылки на методы]]
 [[Лямбда функции]]
 
@@ -156,40 +154,35 @@ links:
 [[Stream API. Часть 11. Параллельные потоки]]
 [[Stream API. Часть 12. Реализация Spliterator]]
 # IO/NIO
-##### Blocking IO vs New (non-blocking) IO 
-[[Input-Output]]
-[[New Input-Output]]
-[[Отличия IO от NIO]]
 ##### Java.io
-[[OutputStream - байтовый вывод]]
-[[Классы-наследникиFileOutputStream]]
-[[Другие классы, реализующие абстрактный класс OutputStream]]
+[[Input-Output]]
 
-[[Writer - символьный вывод]]
-[[Классы, реализующие Writer]]
+[[InputStream]]
+[[OutputStream]]
 
-[[InputStream - байтовый ввод]]
-[[Классы, наследующие InputStream]]
+[[Reader]]
+[[Writer]]
 
-[[Reader - символьный ввод]]
-[[Классы, наследующие Reader]]
+[[Как работает BufferedInputStream и BufferedOutputStream в Java]]
+[[Когда использовать flush с потоками]]
 
 [[Interfaces]]
 [[try-with-resources]]
-[[File]]
-
 ##### Java.nio
+[[New Input-Output]]
+
 [[Buffer]]
-[[Подклассы Buffer для разных типов данных]]
 
 [[Channel]]
-[[Подклассы Channel]]
 
 [[FileLock]]
 [[Selector]]
 [[SelectionKey]]
 
+[[Отличия IO от NIO]]
+
 ##### Files - работа с файлами и файловой системой
+[[File]]
 [[Files]]
 [[Отличия Files от File]]
 [[Path]]

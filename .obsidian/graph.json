@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#IO-NIO  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -34,18 +34,39 @@
         "a": 1,
         "rgb": 16759552
       }
+    },
+    {
+      "query": "tag:#FunctionsP  ",
+      "color": {
+        "a": 1,
+        "rgb": 15898908
+      }
+    },
+    {
+      "query": "tag:#IO-NIO  ",
+      "color": {
+        "a": 1,
+        "rgb": 15904801
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 1.75885416666667,
-  "lineSizeMultiplier": 1.35052083333333,
-  "collapse-forces": true,
-  "centerStrength": 0.296875,
-  "repelStrength": 16.25,
-  "linkStrength": 0.65625,
-  "linkDistance": 172,
-  "scale": 0.22920135941750375,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.52916666666667,
+  "lineSizeMultiplier": 1.06979166666667,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.572916666666667,
+  "linkDistance": 375,
+  "scale": 0.08317427835928211,
   "close": false
 }
