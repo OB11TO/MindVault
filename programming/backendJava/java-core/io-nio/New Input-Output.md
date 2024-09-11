@@ -4,8 +4,13 @@ tags:
   - IO-NIO
 related_topics:
   - "[[Отличия IO от NIO]]"
+  - "[[Buffer]]"
+  - "[[Channel]]"
+  - "[[FileLock]]"
+  - "[[Selector]]"
+  - "[[SelectionKey]]"
 created: 2024-09-10 15:30
-modified: 2024-09-10T15:35:10+03:00
+modified: 2024-09-11T11:27:16+03:00
 questions: 
 notes: 
 links: 
@@ -21,7 +26,7 @@ links:
 
 `Java NIO` <mark class="hltr-orange">базируется на следующих компонентах:</mark>
 
-- <mark class="hltr-red">Абстрактный класс </mark>`Buffer` имеет наследников для работы с разными типами данных, например, `ByteBuffer`. В нем <mark class="hltr-yellow">содержатся данные, которые можно будет обработать, используя каналы.</mark>
+- <mark class="hltr-red">Абстрактный класс </mark>`Buffer`  имеет наследников для работы с разными типами данных, например, `ByteBuffer`. В нем <mark class="hltr-yellow">содержатся данные, которые можно будет обработать, используя каналы.</mark>
 
 ![[images/Untitled 6 2.png|Untitled 6 2.png]]
 

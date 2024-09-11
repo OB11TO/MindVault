@@ -4,7 +4,7 @@ tags:
   - JavaSE
 related_topics: 
 created: 2024-09-02 18:05
-modified: 2024-09-10T18:14:01+03:00
+modified: 2024-09-11T11:34:11+03:00
 difficulty: 
 questions: 
 notes: 
@@ -156,16 +156,51 @@ links:
 # IO/NIO
 ##### Java.io
 [[Input-Output]]
-
+###### InputStream
 [[InputStream]]
+[[FileInputStream]]
+[[ByteArrayInputStream]]
+[[BufferedInputStream]]
+[[DataInputStream]]
+[[FilterInputStream]]
+[[ObjectInputStream]]
+[[PipedInputStream]]
+[[SequenceInputStream]]
+[[PushbackInputStream]]
+###### OutputStream
 [[OutputStream]]
-
+[[FileOutputStream]]
+[[ByteArrayOutputStream]]
+[[BufferedOutputStream]]
+[[DataOutputStream]]
+[[FilterOutputStream]]
+[[ObjectOutputStream]]
+[[PipedOutputStream]]
+[[PrintStream]]
+[[SequenceOutputStream]]
+[[PushbackOutputStream]]
+###### Reader
 [[Reader]]
+[[FileReader]]
+[[BufferedReader]]
+[[CharArrayReader]]
+[[StringReader]]
+[[PushbackReader]]
+[[FilterReader]]
+[[LineNumberReader]]
+[[InputStreamReader]]
+###### Writer
 [[Writer]]
-
+[[FileWriter]]
+[[BufferedWriter]]
+[[CharArrayWriter]]
+[[StringWriter]]
+[[PrintWriter]]
+[[FilterWriter]]
+[[PipedWriter]]
+###### Ather
 [[Как работает BufferedInputStream и BufferedOutputStream в Java]]
 [[Когда использовать flush с потоками]]
-
 [[Interfaces]]
 [[try-with-resources]]
 ##### Java.nio
@@ -174,17 +209,23 @@ links:
 [[Buffer]]
 
 [[Channel]]
+[[FileChannel]]
+[[SocketChannel]]
+[[ServerSocketChannel]]
+[[DatagramChannel]]
+[[Pipe.SinkChannel и Pipe.SourceChannel]]
+[[AsynchronousFileChannel]]
 
 [[FileLock]]
 [[Selector]]
 [[SelectionKey]]
 
 [[Отличия IO от NIO]]
-
 ##### Files - работа с файлами и файловой системой
 [[File]]
 [[Files]]
 [[Отличия Files от File]]
+
 [[Path]]
 [[Paths]]
 [[FileSystem]]
