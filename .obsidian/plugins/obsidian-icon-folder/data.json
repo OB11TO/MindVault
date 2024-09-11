@@ -127,6 +127,6 @@
   "programming/backendJava/kafka": "SiApachekafka",
   "programming/backendJava/java-core/Java Core.md": "RiJavaLine",
   "programming/backendJava/javaEE/apache tomcat": "SiApachetomcat",
-  "programming/backendJava/javaEE/servlets-http-base": "SiWebstorm",
-  "programming/backendJava/javaEE/Java EE.md": "RiJavaLine"
+  "programming/backendJava/javaEE/Java EE.md": "RiJavaLine",
+  "programming/backendJava/javaEE/servlets-base": "SiWebstorm"
 }
