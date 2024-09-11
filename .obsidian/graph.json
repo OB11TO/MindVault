@@ -1,12 +1,19 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#JavaSE  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#Interview  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
     {
       "query": "tag:#JavaSE  ",
       "color": {
@@ -48,25 +55,18 @@
         "a": 1,
         "rgb": 15904801
       }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.52916666666667,
-  "lineSizeMultiplier": 1.06979166666667,
+  "nodeSizeMultiplier": 1.8609375,
+  "lineSizeMultiplier": 1.27395833333333,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 20,
-  "linkStrength": 0.572916666666667,
-  "linkDistance": 375,
-  "scale": 0.030182895067327135,
-  "close": true
+  "centerStrength": 0.494791666666667,
+  "repelStrength": 17.2916666666667,
+  "linkStrength": 0.828125,
+  "linkDistance": 343,
+  "scale": 1.2414543899484494,
+  "close": false
 }

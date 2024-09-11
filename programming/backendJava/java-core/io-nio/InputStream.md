@@ -4,7 +4,7 @@ tags:
   - IO-NIO
 related_topics: 
 created: 2024-09-10 16:05
-modified: 2024-09-10T18:57:56+03:00
+modified: 2024-09-11T11:55:40+03:00
 questions: 
 notes: 
 links: 
@@ -35,6 +35,8 @@ links:
     - `void close()`: Закрывает поток и освобождает ресурсы.
 - **Использование**: Является базой для специализированных классов потоков.
 
+![[images/Untitled 161.png|Untitled 161.png]]
+![[images/Untitled 7 17.png|Untitled 7 17.png]]
 ---
 
 [[FileInputStream]]

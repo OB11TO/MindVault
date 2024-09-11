@@ -1,10 +1,11 @@
 ---
 title: Зачем делать класс final
 tags:
+  - Interview
   - JavaSE
 related_topics: 
 created: 2024-09-09 16:17
-modified: 2024-09-09T16:17:35+03:00
+modified: 2024-09-11T11:43:27+03:00
 difficulty: 
 questions: 
 notes: 

@@ -4,7 +4,7 @@ tags:
   - IO-NIO
 related_topics: 
 created: 2024-09-11 11:31
-modified: 2024-09-11T11:31:14+03:00
+modified: 2024-09-11T11:55:03+03:00
 questions: 
 notes: 
 links: 
@@ -100,3 +100,4 @@ public class FileChannelExample {
 
 
 
+![[images/Untitled 6 18.png|Untitled 6 18.png]]
