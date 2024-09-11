@@ -3,7 +3,7 @@ title: Java Developer
 tags: []
 related_topics: 
 created: 2024-08-29 16:48
-modified: 2024-09-09T13:13:10+03:00
+modified: 2024-09-11T12:41:50+03:00
 difficulty: expert
 questions: 
 notes: Каждый день превосходи свой предел!
@@ -14,7 +14,7 @@ links:
 > `Путь к Senior` 
 
 # [[Java Core]]
-# Java EE
+# [[Java EE]]
 
 # NetWorks
 # PostgreSql

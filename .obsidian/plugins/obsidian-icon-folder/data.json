@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiActivity",
-      "SiApachekafka",
       "RiJavaLine",
-      "SiStreamrunners",
-      "SiThreads"
+      "BoBxlJava",
+      "RiJavaFill",
+      "FabJava",
+      "SiWebstorm"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -125,5 +125,8 @@
   },
   "programming/backendJava/interview/Почему в цикле for нельзя обновить коллекцию.md": "RiJavaFill",
   "programming/backendJava/kafka": "SiApachekafka",
-  "programming/backendJava/java-core/Java Core.md": "RiJavaLine"
+  "programming/backendJava/java-core/Java Core.md": "RiJavaLine",
+  "programming/backendJava/javaEE/apache tomcat": "SiApachetomcat",
+  "programming/backendJava/javaEE/servlets-http-base": "SiWebstorm",
+  "programming/backendJava/javaEE/Java EE.md": "RiJavaLine"
 }

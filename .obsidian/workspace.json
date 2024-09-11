@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d686d3399ff4962",
+            "id": "b83a5b49f42f7be3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/java-core/Java Core.md",
+                "file": "programming/backendJava/javaEE/Java EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/java-core/Java Core.md",
+                "file": "programming/backendJava/javaEE/Java EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/java-core/Java Core.md",
+                "file": "programming/backendJava/javaEE/Java EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/java-core/Java Core.md"
+                "file": "programming/backendJava/javaEE/Java EE.md"
               }
             }
           }
@@ -148,14 +148,36 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "9d686d3399ff4962",
+  "active": "a3f1da65a8773f2c",
   "lastOpenFiles": [
-    "Notion/IO-NIO.md",
+    "programming/backendJava/Java Developer.md",
+    "programming/backendJava/javaEE/Java EE.md",
     "programming/backendJava/java-core/Java Core.md",
-    "programming/backendJava/java-core/io-nio/InputStream.md",
-    "programming/backendJava/java-core/io-nio/FileChannel.md",
-    "programming/backendJava/java-core/io-nio/Отличия IO от NIO.md",
-    "programming/backendJava/java-core/javaSE/String.md",
+    "programming/backendJava/javaEE/apache tomcat/Apache Tomcat.md",
+    "programming/backendJava/javaEE/apache tomcat/Как развернуть приложение на Tomcat.md",
+    "Notion/Apache Tomcat2.md",
+    "programming/backendJava/javaEE/apache tomcat/Server.xml.md",
+    "programming/backendJava/javaEE/apache tomcat/Конфигурация.md",
+    "programming/backendJava/javaEE/apache tomcat/Установка ApacheTomcat.md",
+    "programming/backendJava/javaEE/apache tomcat/Общая информация.md",
+    "programming/backendJava/java-core/javaSE/Анонимные внутренние классы.md",
+    "временная/📂Что нужно для описания OBSIDIANE.md",
+    "programming/backendJava/javaEE/apache tomcat",
+    "programming/backendJava/javaEE/servlets-http-base",
+    "programming/backendJava/javaEE/Без названия.md",
+    "programming/backendJava/java-core/multithriding/Multithriding.md",
+    "programming/backendJava/java-core/multithriding/wait, notify, notifyAll.md",
+    "programming/backendJava/java-core/multithriding/synhronized collection.md",
+    "Notion/Multithreading.md",
+    "programming/backendJava/java-core/multithriding/Class ReentrantLock implements Lock.md",
+    "programming/backendJava/java-core/multithriding/Избегание DeadLocks.md",
+    "programming/backendJava/java-core/multithriding/DeadLock.md",
+    "programming/backendJava/java-core/multithriding/Решение Data Race с использованием атомарных операций Atomic.md",
+    "programming/backendJava/java-core/multithriding/volatile.md",
+    "programming/backendJava/java-core/multithriding/synhronized.md",
+    "programming/backendJava/java-core/multithriding/Data Race.md",
+    "programming/backendJava/java-core/multithriding/Virtual Threads (JEP 444).md",
+    "programming/backendJava/java-core/multithriding/Фабрика потоков.md",
     "images/Untitled 7 17.png",
     "images/Untitled 6 18.png",
     "images/Untitled 5 19.png",
@@ -164,26 +186,6 @@
     "images/Untitled 2 20.png",
     "images/Untitled 1 22.png",
     "images/Untitled 161.png",
-    "programming/backendJava/interview/Зачем делать класс final.md",
-    "programming/backendJava/java-core/io-nio/Когда использовать flush с потоками.md",
-    "programming/backendJava/java-core/io-nio/FileAttribute.md",
-    "programming/backendJava/java-core/io-nio/OpenOption.md",
-    "programming/backendJava/java-core/io-nio/FileSystems.md",
-    "programming/backendJava/java-core/io-nio/FileSystem.md",
-    "programming/backendJava/java-core/io-nio/Paths.md",
-    "programming/backendJava/java-core/io-nio/Path.md",
-    "programming/backendJava/java-core/io-nio/Отличия Files от File.md",
-    "programming/backendJava/java-core/io-nio/Files.md",
-    "programming/backendJava/java-core/io-nio/File.md",
-    "programming/backendJava/java-core/io-nio/SelectionKey.md",
-    "programming/backendJava/java-core/io-nio/Selector.md",
-    "programming/backendJava/java-core/io-nio/FileLock.md",
-    "programming/backendJava/java-core/io-nio/Channel.md",
-    "programming/backendJava/java-core/io-nio/AsynchronousFileChannel.md",
-    "programming/backendJava/java-core/io-nio/Pipe.SinkChannel и Pipe.SourceChannel.md",
-    "programming/backendJava/java-core/io-nio/DatagramChannel.md",
-    "programming/backendJava/java-core/io-nio/ServerSocketChannel.md",
-    "programming/backendJava/java-core/io-nio/SocketChannel.md",
     "images/Pasted image 20240910182431.png",
     "images/Pasted image 20240910182423.png",
     "programming/backendJava/kafka",
@@ -194,8 +196,6 @@
     "Notion/Lombok",
     "Notion/Apache Tomcat",
     "Notion/Stream API",
-    "Notion",
-    "programming/backendJava/interview",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

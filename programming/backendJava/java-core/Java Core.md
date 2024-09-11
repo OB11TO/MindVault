@@ -4,7 +4,7 @@ tags:
   - JavaSE
 related_topics: 
 created: 2024-09-02 18:05
-modified: 2024-09-11T11:34:11+03:00
+modified: 2024-09-11T12:54:00+03:00
 difficulty: 
 questions: 
 notes: 
@@ -233,3 +233,23 @@ links:
 [[FileAttribute]]
 [[OpenOption]]
 # Multithriding 
+[[Multithriding]]
+[[Квантования времени выполнения потоков]]
+[[Создание потоков, интерфейс Runnable методы]]
+[[class java.lang.Thread - документация]]
+[[Состояние потока]]
+[[Прерывания потока]]
+[[Атомарность операции]]
+[[synhronized]]
+[[synhronized collection]]
+[[wait, notify, notifyAll]]
+[[Потоки-демоны]]
+[[Обработка непроверяемых исключений]]
+[[Фабрика потоков]]
+[[Virtual Threads (JEP 444)]]
+[[Data Race]]
+[[Решение Data Race с использованием атомарных операций Atomic]]
+[[volatile]]
+[[DeadLock]]
+[[Избегание DeadLocks]]
+[[Class ReentrantLock implements Lock]]
