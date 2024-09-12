@@ -2,9 +2,10 @@
 title: Как развернуть приложение на Tomcat
 tags:
   - ApacheTomcat
+  - JavaEE
 related_topics: 
 created: 2024-09-11 13:00
-modified: 2024-09-11T13:01:09+03:00
+modified: 2024-09-12T16:07:13+03:00
 questions: 
 notes: 
 links: 

@@ -2,17 +2,24 @@
 title: Input-Output
 tags:
   - IO-NIO
-related_topics:
-  - "[[Отличия IO от NIO]]"
-  - "[[InputStream]]"
-  - "[[OutputStream]]"
-  - "[[Reader]]"
-  - "[[Writer]]"
+related_topics: []
 created: 2024-09-10 15:27
-modified: 2024-09-10T18:41:39+03:00
+modified: 2024-09-12T15:56:49+03:00
 questions: 
 notes: 
 links: 
+---
+
+---
+###### InputStream
+[[InputStream]]
+###### OutputStream
+[[OutputStream]]
+###### Reader
+[[Reader]]
+###### Writer
+[[Writer]]
+
 ---
 ### Input-Output
 

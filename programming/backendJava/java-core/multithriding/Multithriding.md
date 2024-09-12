@@ -4,12 +4,14 @@ tags:
   - Multithreading
 related_topics: 
 created: 2024-09-11 12:37
-modified: 2024-09-11T12:38:10+03:00
+modified: 2024-09-12T15:36:13+03:00
 questions: 
 notes: 
 links: 
 ---
-## Краткое описание
+-----
+
+##### Краткое описание
 [[Квантования времени выполнения потоков]]
 [[Создание потоков, интерфейс Runnable методы]]
 [[class java.lang.Thread - документация]]
@@ -30,4 +32,4 @@ links:
 [[Избегание DeadLocks]]
 [[Class ReentrantLock implements Lock]]
 
-## Полное описание
+----

@@ -3,7 +3,7 @@ title: Java Developer
 tags: []
 related_topics: 
 created: 2024-08-29 16:48
-modified: 2024-09-11T12:41:50+03:00
+modified: 2024-09-12T18:41:34+03:00
 difficulty: expert
 questions: 
 notes: Каждый день превосходи свой предел!
@@ -16,7 +16,7 @@ links:
 # [[Java Core]]
 # [[Java EE]]
 
-# NetWorks
+# [[Network]]
 # PostgreSql
 # Oracle
 # Redis

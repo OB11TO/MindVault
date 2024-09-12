@@ -4,7 +4,7 @@ tags:
   - FunctionsP
 related_topics: 
 created: 2024-09-11 17:12
-modified: 2024-09-11T17:35:15+03:00
+modified: 2024-09-12T13:42:13+03:00
 questions: 
 notes: 
 links: 
@@ -28,3 +28,4 @@ links:
 
 
 ![[Pasted image 20240911173505.png]]
+

@@ -4,11 +4,23 @@ tags:
   - IO-NIO
 related_topics: 
 created: 2024-09-10 18:02
-modified: 2024-09-11T18:52:55+03:00
+modified: 2024-09-12T16:36:06+03:00
 questions: 
 notes: 
 links: 
 ---
+
+----
+##### Подклассы Channel 
+[[FileChannel]]
+[[SocketChannel]]
+[[ServerSocketChannel]]
+[[DatagramChannel]]
+[[Pipe.SinkChannel и Pipe.SourceChannel]]
+[[AsynchronousFileChannel]]
+
+-----
+
 ### Channel
 
 Класс `Channel` в пакете `java.nio.channels` <mark class="hltr-red">представляет канал, который обеспечивает двустороннюю связь между источником данных и приемником данных</mark>. Каналы <mark class="hltr-yellow">используются для чтения и записи данных из и в буферы.</mark>
@@ -70,12 +82,6 @@ public class ChannelExample {
     - `flip()` устанавливает текущую позицию на начало данных, ограничивая количество байтов, которые можно прочитать (от текущей позиции до лимита).
 - Теперь, когда буфер находится в режиме чтения, вызывается метод `write()` на канале `FileChannel`. Он записывает содержимое буфера (данные из строки `data`) в файл по указанному пути `path`.
 - При этом происходит чтение данных из буфера начиная с текущей позиции до лимита.
-### Подклассы Channel 
-[[FileChannel]]
-[[SocketChannel]]
-[[ServerSocketChannel]]
-[[DatagramChannel]]
-[[Pipe.SinkChannel и Pipe.SourceChannel]]
-[[AsynchronousFileChannel]]
+
 
 ----

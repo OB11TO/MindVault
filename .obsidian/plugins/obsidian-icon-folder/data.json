@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiWebauthn",
+      "FasNetworkWired",
       "RiJavaLine",
       "BoBxlJava",
-      "RiJavaFill",
-      "FabJava",
-      "SiWebstorm"
+      "RiJavaFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -128,5 +128,7 @@
   "programming/backendJava/java-core/Java Core.md": "RiJavaLine",
   "programming/backendJava/javaEE/apache tomcat": "SiApachetomcat",
   "programming/backendJava/javaEE/Java EE.md": "RiJavaLine",
-  "programming/backendJava/javaEE/servlets-base": "SiWebstorm"
+  "programming/backendJava/javaEE/servlets-base": "SiWebstorm",
+  "programming/backendJava/networks/Network.md": "FasNetworkWired",
+  "programming/backendJava/networks/network": "SiWebauthn"
 }

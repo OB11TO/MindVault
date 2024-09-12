@@ -3,21 +3,22 @@ title: Interface Set
 tags:
   - Collection
   - Set
-related_topics:
-  - "[[Interface NavigableSet]]"
-  - "[[Interface SortedSet]]"
-  - "[[CopyOnWriteArraySet]]"
-  - "[[ConcurrentSkipListSet]]"
-  - "[[HashSet]]"
-  - "[[LinkedHashSet]]"
-  - "[[EnumSet]]"
-  - "[[TreeSet]]"
+related_topics: []
 created: 2024-09-09 17:16
-modified: 2024-09-10T13:49:00+03:00
+modified: 2024-09-12T15:16:29+03:00
 questions: 
 notes: 
 links: 
 ---
+----
+[[CopyOnWriteArraySet]]
+[[ConcurrentSkipListSet]]
+[[HashSet]]
+[[LinkedHashSet]]
+[[EnumSet]]
+[[TreeSet]]
+
+-----
 ## Interface Set\<E>
 
 [https://docs.oracle.com/javase/8/docs/api/java/util/Set.html](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html)

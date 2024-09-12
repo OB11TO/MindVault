@@ -2,14 +2,27 @@
 title: OutputStream
 tags:
   - IO-NIO
-related_topics:
-  - "[[Когда использовать flush с потоками]]"
+related_topics: []
 created: 2024-09-10 16:06
-modified: 2024-09-10T18:58:07+03:00
+modified: 2024-09-12T15:56:40+03:00
 questions: 
 notes: 
 links: 
 ---
+
+----
+[[FileOutputStream]]
+[[ByteArrayOutputStream]]
+[[BufferedOutputStream]]
+[[DataOutputStream]]
+[[FilterOutputStream]]
+[[ObjectOutputStream]]
+[[PipedOutputStream]]
+[[PrintStream]]
+[[SequenceOutputStream]]
+[[PushbackOutputStream]]
+
+-----
 Каждый из этих классов предоставляет различные способы работы с байтовыми потоками в Java:
 
 1. **`OutputStream`** — <mark class="hltr-yellow">базовый</mark> класс для всех потоков вывода байтов.
@@ -41,13 +54,3 @@ links:
 - **Использование**: Основной класс, от которого наследуются все остальные классы вывода.
 
 ---
-[[FileOutputStream]]
-[[ByteArrayOutputStream]]
-[[BufferedOutputStream]]
-[[DataOutputStream]]
-[[FilterOutputStream]]
-[[ObjectOutputStream]]
-[[PipedOutputStream]]
-[[PrintStream]]
-[[SequenceOutputStream]]
-[[PushbackOutputStream]]

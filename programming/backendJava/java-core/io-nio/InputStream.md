@@ -4,11 +4,26 @@ tags:
   - IO-NIO
 related_topics: 
 created: 2024-09-10 16:05
-modified: 2024-09-11T11:55:40+03:00
+modified: 2024-09-12T15:56:06+03:00
 questions: 
 notes: 
 links: 
 ---
+
+----
+[[FileInputStream]]
+[[ByteArrayInputStream]]
+[[BufferedInputStream]]
+[[DataInputStream]]
+[[FilterInputStream]]
+[[ObjectInputStream]]
+[[PipedInputStream]]
+[[SequenceInputStream]]
+[[PushbackInputStream]]
+
+----
+
+
 Каждый из этих классов предоставляет уникальные возможности для работы с байтовыми потоками:
 
 1. **`InputStream`** — <mark class="hltr-yellow">базовый</mark> класс для всех потоков ввода, работающих с байтами.
@@ -38,13 +53,3 @@ links:
 ![[images/Untitled 161.png|Untitled 161.png]]
 ![[images/Untitled 7 17.png|Untitled 7 17.png]]
 ---
-
-[[FileInputStream]]
-[[ByteArrayInputStream]]
-[[BufferedInputStream]]
-[[DataInputStream]]
-[[FilterInputStream]]
-[[ObjectInputStream]]
-[[PipedInputStream]]
-[[SequenceInputStream]]
-[[PushbackInputStream]]

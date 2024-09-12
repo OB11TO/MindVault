@@ -4,10 +4,22 @@ tags:
   - IO-NIO
 related_topics: 
 created: 2024-09-10 16:26
-modified: 2024-09-11T11:22:39+03:00
+modified: 2024-09-12T15:57:10+03:00
 questions: 
 notes: 
 links: 
+---
+
+---
+[[FileReader]]
+[[BufferedReader]]
+[[CharArrayReader]]
+[[StringReader]]
+[[PushbackReader]]
+[[FilterReader]]
+[[LineNumberReader]]
+[[InputStreamReader]]
+
 ---
 ## Краткое описание
 Для работы с символами Java предоставляет несколько классов ввода и вывода:
@@ -38,12 +50,3 @@ links:
 - **Использование**: Является базовым классом для всех потоков ввода символов.
 
 ---
-
-[[FileReader]]
-[[BufferedReader]]
-[[CharArrayReader]]
-[[StringReader]]
-[[PushbackReader]]
-[[FilterReader]]
-[[LineNumberReader]]
-[[InputStreamReader]]

@@ -2,14 +2,24 @@
 title: Writer
 tags:
   - IO-NIO
-related_topics:
-  - "[[Когда использовать flush с потоками]]"
+related_topics: []
 created: 2024-09-10 16:28
-modified: 2024-09-11T11:24:40+03:00
+modified: 2024-09-12T15:57:33+03:00
 questions: 
 notes: 
 links: 
 ---
+
+---
+[[FileWriter]]
+[[BufferedWriter]]
+[[CharArrayWriter]]
+[[StringWriter]]
+[[PrintWriter]]
+[[FilterWriter]]
+[[PipedWriter]]
+
+----
 ## Краткое описание
 Для записи символов в Java:
 
@@ -40,11 +50,3 @@ links:
 - **Использование**: Основной класс, от которого наследуются все классы вывода символов.
 
 ---
-
-[[FileWriter]]
-[[BufferedWriter]]
-[[CharArrayWriter]]
-[[StringWriter]]
-[[PrintWriter]]
-[[FilterWriter]]
-[[PipedWriter]]

@@ -2,19 +2,24 @@
 title: New Input-Output
 tags:
   - IO-NIO
-related_topics:
-  - "[[Отличия IO от NIO]]"
-  - "[[Buffer]]"
-  - "[[Channel]]"
-  - "[[FileLock]]"
-  - "[[Selector]]"
-  - "[[SelectionKey]]"
+related_topics: []
 created: 2024-09-10 15:30
-modified: 2024-09-11T11:27:16+03:00
+modified: 2024-09-12T14:57:26+03:00
 questions: 
 notes: 
 links: 
 ---
+---
+[[Buffer]]
+
+[[Channel]]
+
+[[FileLock]]
+[[Selector]]
+[[SelectionKey]]
+
+---
+
 ### New Input-Output
 
 `Java NIO` - альтернативная библиотека для работы с вводом-выводом.  

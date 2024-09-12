@@ -3,15 +3,18 @@ title: Interface List
 tags:
   - Collection
   - List
-related_topics:
-  - "[[ArrayList]]"
-  - "[[LinkedList]]"
-  - "[[Vector and Stack]]"
+related_topics: []
 created: 2024-09-09 16:51
-modified: 2024-09-09T17:16:07+03:00
+modified: 2024-09-12T15:15:54+03:00
 questions: 
 notes: 
 links: 
+---
+----
+[[Vector and Stack]]
+[[ArrayList]]
+[[LinkedList]]
+
 ---
 ## Interface List\<E>
 
