@@ -1,10 +1,10 @@
 ---
-title: JavaSE
+title: Java Core
 tags:
   - JavaSE
 related_topics: 
 created: 2024-09-12 15:23
-modified: 2024-09-12T15:26:51+03:00
+modified: 2024-09-13T10:59:05+03:00
 questions: 
 notes: 
 links: 

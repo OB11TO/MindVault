@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/javaEE/Java EE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "605215b38e28a4ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/networks/Network.md",
+                "file": "programming/backendJava/javaSE/Java SE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/networks/Network.md",
+                "file": "programming/backendJava/javaSE/Java SE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/networks/Network.md",
+                "file": "programming/backendJava/javaSE/Java SE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/networks/Network.md"
+                "file": "programming/backendJava/javaSE/Java SE.md"
               }
             }
           }
@@ -161,13 +148,15 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "a3f1da65a8773f2c",
+  "active": "f75ab409f141e081",
   "lastOpenFiles": [
-    "programming/backendJava/networks/network",
     "programming/backendJava/Java Developer.md",
+    "programming/backendJava/javaSE/Java SE.md",
+    "programming/backendJava/javaSE/java-core/Java Core.md",
     "programming/backendJava/javaEE/Java EE.md",
-    "Notion/Bash.md",
     "programming/backendJava/networks/Network.md",
+    "programming/backendJava/networks/network",
+    "Notion/Bash.md",
     "Notion/Сеть, HTTP, Servlets.md",
     "programming/backendJava/networks/network/HTTP.md",
     "programming/backendJava/networks/network/Минусы Rest.md",
@@ -189,7 +178,6 @@
     "Лекция Модель и стек протоколов TCP/IP.md",
     "Лекция Модель и стек протоколов TCP",
     "programming/backendJava/networks/network/Классификации сетей.md",
-    "programming/backendJava/networks/network/Лекция Модель OSI.md",
     "HTTP",
     "images/Pasted image 20240912162535.png",
     "images/Pasted image 20240912162502.png",
@@ -208,7 +196,6 @@
     "Notion/Тестирование",
     "Notion/Hibernate",
     "Notion/Algorithm",
-    "Notion/Liquibase",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

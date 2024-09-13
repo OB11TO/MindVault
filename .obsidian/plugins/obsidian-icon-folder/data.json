@@ -33,10 +33,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "programming/backendJava/java-core": {
-    "iconName": "FabJava",
-    "iconColor": "#eb840f"
-  },
   "programming/backendJava/docker": {
     "iconName": "SiDocker",
     "iconColor": "#13cee7"
@@ -111,24 +107,28 @@
     "iconColor": "#5aa300"
   },
   "programming/backendJava/Java Developer.md": "CoMainComponent",
-  "programming/backendJava/java-core/collections": "BoBxCollection",
-  "programming/backendJava/java-core/io-nio": "RiInputField",
-  "programming/backendJava/java-core/javaSE": {
-    "iconName": "RiJavaFill",
-    "iconColor": "#c6942a"
-  },
-  "programming/backendJava/java-core/multithriding": "SiThreads",
-  "programming/backendJava/java-core/streamApi": "SiStreamrunners",
   "programming/backendJava": {
     "iconName": "BoBxlJava",
     "iconColor": "#d19900"
   },
   "programming/backendJava/interview/Почему в цикле for нельзя обновить коллекцию.md": "RiJavaFill",
   "programming/backendJava/kafka": "SiApachekafka",
-  "programming/backendJava/java-core/Java Core.md": "RiJavaLine",
   "programming/backendJava/javaEE/apache tomcat": "SiApachetomcat",
   "programming/backendJava/javaEE/Java EE.md": "RiJavaLine",
   "programming/backendJava/javaEE/servlets-base": "SiWebstorm",
   "programming/backendJava/networks/Network.md": "FasNetworkWired",
-  "programming/backendJava/networks/network": "SiWebauthn"
+  "programming/backendJava/networks/network": "SiWebauthn",
+  "programming/backendJava/javaSE": {
+    "iconName": "FabJava",
+    "iconColor": "#eb840f"
+  },
+  "programming/backendJava/javaSE/collections": "BoBxCollection",
+  "programming/backendJava/javaSE/streamApi": "SiStreamrunners",
+  "programming/backendJava/javaSE/io-nio": "RiInputField",
+  "programming/backendJava/javaSE/multithriding": "SiThreads",
+  "programming/backendJava/javaSE/Java SE.md": "RiJavaLine",
+  "programming/backendJava/javaSE/java-core": {
+    "iconName": "RiJavaFill",
+    "iconColor": "#c6942a"
+  }
 }

@@ -3,7 +3,7 @@ title: Java Developer
 tags: []
 related_topics: 
 created: 2024-08-29 16:48
-modified: 2024-09-12T18:41:34+03:00
+modified: 2024-09-13T11:01:20+03:00
 difficulty: expert
 questions: 
 notes: Каждый день превосходи свой предел!
@@ -13,7 +13,7 @@ links:
 > [!info] Здесь собрана вся информация, которую я собрал и продолжаю собирать. 
 > `Путь к Senior` 
 
-# [[Java Core]]
+# [[Java SE]]
 # [[Java EE]]
 
 # [[Network]]
@@ -25,11 +25,11 @@ links:
 # Gradle
 # JDBC
 # Hibernate
-# Spring 
 # Testing
 # Git
 # Bash
 # Docker
+# Spring 
 # Kafka
 # Patterns
 # Microservices
