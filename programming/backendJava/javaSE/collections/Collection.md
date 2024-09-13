@@ -4,11 +4,12 @@ tags:
   - Collection
 related_topics: 
 created: 2024-09-12 15:14
-modified: 2024-09-12T15:31:46+03:00
+modified: 2024-09-13T12:02:10+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ---
 ##### Interfece 
 [[Interface Iterable]]

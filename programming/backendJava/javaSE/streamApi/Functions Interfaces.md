@@ -4,11 +4,12 @@ tags:
   - FunctionsP
 related_topics: 
 created: 2024-09-12 14:42
-modified: 2024-09-12T16:00:22+03:00
+modified: 2024-09-13T13:38:59+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ----
 ##### Functions Interfaces
 [[Функциональный интерфейс Predicate]]

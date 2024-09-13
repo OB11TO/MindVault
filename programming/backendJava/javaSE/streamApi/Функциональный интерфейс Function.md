@@ -4,11 +4,12 @@ tags:
   - FunctionsP
 related_topics: 
 created: 2024-09-12 14:34
-modified: 2024-09-12T16:25:46+03:00
+modified: 2024-09-13T14:48:04+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ![[Pasted image 20240912143654.png]]
 ![[Pasted image 20240912143745.png]]
 ![[Pasted image 20240912161116.png]]]

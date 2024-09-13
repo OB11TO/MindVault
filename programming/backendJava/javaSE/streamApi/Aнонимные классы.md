@@ -4,11 +4,12 @@ tags:
   - FunctionsP
 related_topics: 
 created: 2024-09-10 14:04
-modified: 2024-09-10T14:29:38+03:00
+modified: 2024-09-13T13:39:12+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ## Краткое описание
 - В Java <mark class="hltr-green2">анонимные классы имеют доступ только</mark> к `final` или <mark class="hltr-yellow">effectively final</mark> переменным из внешнего контекст
 - Aнонимный класс<mark class="hltr-yellow"> не может содержать статические переменные и методы</mark>
