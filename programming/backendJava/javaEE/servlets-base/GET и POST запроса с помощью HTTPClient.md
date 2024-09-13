@@ -4,11 +4,12 @@ tags:
   - JavaEE
 related_topics: 
 created: 2024-09-11 13:57
-modified: 2024-09-11T13:57:30+03:00
+modified: 2024-09-13T18:16:23+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ### Пример GET и POST запроса с помощью HTTPClient
 
 - Помимо метода send() в данном классе имеется sendAsync() возвращающий CompletableFuture<HttpResponse\<T>> позволяющий не останавливать выполнение потока из-за ожидания response.

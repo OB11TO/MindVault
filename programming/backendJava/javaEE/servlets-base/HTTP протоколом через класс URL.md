@@ -4,11 +4,12 @@ tags:
   - JavaEE
 related_topics: 
 created: 2024-09-11 13:56
-modified: 2024-09-11T13:56:47+03:00
+modified: 2024-09-13T18:15:38+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ### Пример работы с HTTP протоколом через класс URL
 
 Удобно работать только с GET запросами. C POST запросами во первых приходится разрешить URLconnection.setDoOutput(true), так как изначально он выставлен в false. Потом переводить данные в байты и работать через OutPutStream

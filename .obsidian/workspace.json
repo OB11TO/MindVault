@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/networks/Network.md",
+                "file": "programming/backendJava/javaEE/Java EE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b2911badc22d6cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/javaEE/servlets-base/JSP and JSTL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15c04a759c61eeb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/javaEE/servlets-base/JSP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae4589726a032713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "временная/📂Что нужно для описания OBSIDIANE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/networks/Network.md",
+                "file": "programming/backendJava/javaEE/servlets-base/JSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/networks/Network.md",
+                "file": "programming/backendJava/javaEE/servlets-base/JSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/networks/Network.md"
+                "file": "programming/backendJava/javaEE/servlets-base/JSP.md"
               }
             }
           }
@@ -150,28 +187,32 @@
   },
   "active": "a3f1da65a8773f2c",
   "lastOpenFiles": [
-    "programming/backendJava/networks/network/HTTP2.md",
-    "programming/backendJava/networks/Network.md",
-    "programming/backendJava/networks/network/HTTP.md",
-    "programming/backendJava/networks/network/DNS.md",
-    "programming/backendJava/networks/network/Модель OSI.md",
-    "programming/backendJava/networks/network/Сетевой уровень.md",
-    "programming/backendJava/networks/network/Сетевая маска.md",
-    "programming/backendJava/networks/network/Канальный уровень.md",
-    "programming/backendJava/javaEE/servlets-base/как они обмениваются напрямую без маршрутизатора.md",
-    "programming/backendJava/networks/network/IP aдрес (v4).md",
-    "programming/backendJava/networks/network/IP aдрес (v6).md",
-    "programming/backendJava/networks/network/Транспортный уровень.md",
-    "programming/backendJava/networks/network/Основные протоколы TCP, UDP.md",
-    "programming/backendJava/networks/network/Сеансовый уровень.md",
-    "programming/backendJava/networks/network/Прикладной уровень.md",
-    "programming/backendJava/networks/network/Уровень представления.md",
+    "programming/backendJava/javaEE/servlets-base/JSP and JSTL.md",
     "programming/backendJava/javaEE/Java EE.md",
-    "programming/backendJava/javaSE/Java SE.md",
-    "programming/backendJava/javaSE/streamApi/Stream API and Function Programming.md",
-    "programming/backendJava/javaSE/streamApi/Functions Interfaces.md",
-    "programming/backendJava/javaSE/streamApi/Функциональный интерфейс Consumer.md",
-    "programming/backendJava/javaSE/java-core/Java Core.md",
+    "временная/📂Что нужно для описания OBSIDIANE.md",
+    "programming/backendJava/javaEE/servlets-base/Session от Tomcat.md",
+    "programming/backendJava/javaEE/servlets-base/Servlets Cookie Session.md",
+    "programming/backendJava/javaEE/servlets-base/Аутентификация, logout, авторизация Servlets.md",
+    "programming/backendJava/javaEE/servlets-base/Цепочки фильтров.md",
+    "programming/backendJava/javaEE/servlets-base/Перенаправление при невыполнении условий фильтрации.md",
+    "programming/backendJava/javaEE/servlets-base/dispatcherTypes.md",
+    "programming/backendJava/javaEE/servlets-base/Ограничение применения фильтра с помощью servletNames.md",
+    "programming/backendJava/javaEE/servlets-base/Servlet Filters.md",
+    "programming/backendJava/javaEE/servlets-base/Перенаправление запросов.md",
+    "programming/backendJava/javaEE/servlets-base/Attributes.md",
+    "programming/backendJava/javaEE/servlets-base/Сookies.md",
+    "programming/backendJava/javaEE/servlets-base/Два взаимосвязанных сервлета через параметр.md",
+    "programming/backendJava/javaEE/servlets-base/Создание собственного Servlet.md",
+    "programming/backendJava/javaEE/servlets-base/Сервлеты.md",
+    "programming/backendJava/javaEE/servlets-base/Web Server Soket.md",
+    "programming/backendJava/javaEE/servlets-base/GET и POST запроса с помощью HTTPClient.md",
+    "programming/backendJava/javaEE/servlets-base/HTTPClientExample.md",
+    "programming/backendJava/javaEE/servlets-base/HTTP протоколом через класс URL.md",
+    "programming/backendJava/javaEE/servlets-base/Отправка и получение запроса используя DatagramSocket (UDP).md",
+    "programming/backendJava/javaEE/servlets-base/Отправка и получение запроса c помощью Socket и ServerSocket (TCP).md",
+    "programming/backendJava/javaEE/servlets-base/TCP&UDP Networking.md",
+    "programming/backendJava/javaEE/servlets-base/Socket.md",
+    "programming/backendJava/javaEE/servlets-base/Форматы данных.md",
     "images/Pasted image 20240913150231.png",
     "images/Pasted image 20240913150204.png",
     "images/Pasted image 20240913150202.png",
@@ -179,13 +220,9 @@
     "images/Pasted image 20240913150040.png",
     "images/Pasted image 20240913150032.png",
     "images/Pasted image 20240913145757.png",
-    "programming/backendJava/javaSE/java-core/Generics.md",
     "images/Pasted image 20240913145042.png",
     "images/Pasted image 20240913145015.png",
     "images/Pasted image 20240913144847.png",
-    "programming/backendJava/javaSE/streamApi/Функциональный интерфейс Predicate.md",
-    "programming/backendJava/javaSE/streamApi/Функциональный интерфейс Function.md",
-    "programming/backendJava/javaSE/streamApi/Функциональный интерфейс Comparable.md",
     "programming/backendJava/networks/network",
     "Лекция Модель и стек протоколов TCP",
     "HTTP",
