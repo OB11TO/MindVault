@@ -1,3 +1,15 @@
+---
+title: Настройка SSH keygen
+tags:
+  - Git
+related_topics: 
+created: 2024-09-16 18:37
+modified: 2024-09-16T18:37:33+03:00
+questions: 
+notes: 
+links: 
+---
+
 ### Настройка SSH keygen
 
 git config --global [user.name](http://user.name/) "Onemyname"  

@@ -3,7 +3,7 @@ title: Java Developer
 tags: []
 related_topics: 
 created: 2024-08-29 16:48
-modified: 2024-09-16T17:18:45+03:00
+modified: 2024-09-16T18:49:37+03:00
 difficulty: expert
 questions: 
 notes: Каждый день превосходи свой предел!
@@ -22,11 +22,11 @@ links:
 # Redis
 # Liquibase
 # [[Maven]]
-# Gradle
-# JDBC
+# [[Gradle]]
+# Jdbc
 # Hibernate
 # Testing
-# Git
+# [[Git]]
 # Bash
 # Docker
 # Spring 

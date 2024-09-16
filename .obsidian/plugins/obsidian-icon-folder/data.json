@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiApachemaven",
-      "SiWebauthn",
-      "FasNetworkWired",
-      "RiJavaLine",
-      "BoBxlJava"
+      "TiNetwork",
+      "SiGit",
+      "FabGit",
+      "SiGradle",
+      "SiApachemaven"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -114,10 +114,19 @@
   "programming/backendJava/interview/Почему в цикле for нельзя обновить коллекцию.md": "RiJavaFill",
   "programming/backendJava/kafka": "SiApachekafka",
   "programming/backendJava/javaEE/apache tomcat": "SiApachetomcat",
-  "programming/backendJava/javaEE/Java EE.md": "RiJavaLine",
+  "programming/backendJava/javaEE/Java EE.md": {
+    "iconName": "RiJavaLine",
+    "iconColor": "#e0870b"
+  },
   "programming/backendJava/javaEE/servlets-base": "SiWebstorm",
-  "programming/backendJava/networks/Network.md": "FasNetworkWired",
-  "programming/backendJava/networks/network": "SiWebauthn",
+  "programming/backendJava/networks/Network.md": {
+    "iconName": "TiNetwork",
+    "iconColor": "#65b3c3"
+  },
+  "programming/backendJava/networks/network": {
+    "iconName": "TiNetwork",
+    "iconColor": "#65b3c3"
+  },
   "programming/backendJava/javaSE": {
     "iconName": "FabJava",
     "iconColor": "#eb840f"
@@ -126,11 +135,36 @@
   "programming/backendJava/javaSE/streamApi": "SiStreamrunners",
   "programming/backendJava/javaSE/io-nio": "RiInputField",
   "programming/backendJava/javaSE/multithriding": "SiThreads",
-  "programming/backendJava/javaSE/Java SE.md": "RiJavaLine",
+  "programming/backendJava/javaSE/Java SE.md": {
+    "iconName": "RiJavaLine",
+    "iconColor": "#e88f11"
+  },
   "programming/backendJava/javaSE/java-core": {
     "iconName": "RiJavaFill",
     "iconColor": "#c6942a"
   },
-  "programming/backendJava/maven/Maven.md": "SiApachemaven",
-  "programming/backendJava/maven/all-maven": "SiApachemaven"
+  "programming/backendJava/maven/Maven.md": {
+    "iconName": "SiApachemaven",
+    "iconColor": "#c61515"
+  },
+  "programming/backendJava/maven/all-maven": {
+    "iconName": "SiApachemaven",
+    "iconColor": "#c61515"
+  },
+  "programming/backendJava/gradle/all-gradle": {
+    "iconName": "SiGradle",
+    "iconColor": "#76acb7"
+  },
+  "programming/backendJava/gradle/Gradle.md": {
+    "iconName": "SiGradle",
+    "iconColor": "#76acb7"
+  },
+  "programming/backendJava/git/Git.md": {
+    "iconName": "SiGit",
+    "iconColor": "#e17014"
+  },
+  "programming/backendJava/git/all-git": {
+    "iconName": "SiGit",
+    "iconColor": "#e17014"
+  }
 }
