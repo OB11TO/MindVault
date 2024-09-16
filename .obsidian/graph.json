@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 6598585
       }
+    },
+    {
+      "query": "tag:#Maven  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +102,6 @@
   "repelStrength": 14.8958333333333,
   "linkStrength": 0.807291666666667,
   "linkDistance": 444,
-  "scale": 0.08317427835929612,
+  "scale": 0.08317427835929789,
   "close": true
 }

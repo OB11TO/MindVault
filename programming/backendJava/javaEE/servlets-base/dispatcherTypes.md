@@ -4,11 +4,12 @@ tags:
   - JavaEE
 related_topics: 
 created: 2024-09-11 14:06
-modified: 2024-09-11T14:06:42+03:00
+modified: 2024-09-16T14:52:26+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ### dispatcherTypes
 
 Также можно задавать параметры через @WebInitParam (аналог метода init(FilterConfig config) и через dispatcherTypes указать в каком случае срабатывает фильтр( по умолчанию DispatcherType.REQUEST)

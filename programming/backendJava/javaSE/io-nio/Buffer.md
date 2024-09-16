@@ -4,11 +4,12 @@ tags:
   - IO-NIO
 related_topics: 
 created: 2024-09-10 17:59
-modified: 2024-09-11T18:43:01+03:00
+modified: 2024-09-16T13:28:03+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ### Buffer
 
 Класс `Buffer` в пакете `java.nio` <mark class="hltr-yellow">представляет буфер для чтения и записи данных. </mark>Буфер <mark class="hltr-green2">является контейнером для элементов определенного типа данных, таких как байты, символы и примитивные значения</mark>. Он <mark class="hltr-blue">предоставляет методы для удобного доступа и манипулирования данными.</mark>

@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ddf5ab719806023d",
+        "id": "64764e4f6f111663",
         "type": "tabs",
         "children": [
           {
-            "id": "ac45db89afdf0002",
+            "id": "9638a269868e0d36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/javaEE/Java EE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b2911badc22d6cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/javaEE/servlets-base/JSP and JSTL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15c04a759c61eeb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/javaEE/servlets-base/JSP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae4589726a032713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "временная/📂Что нужно для описания OBSIDIANE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/javaEE/servlets-base/JSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/javaEE/servlets-base/JSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "programming/backendJava/javaEE/servlets-base/JSP.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -185,34 +140,36 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "a3f1da65a8773f2c",
+  "active": "9638a269868e0d36",
   "lastOpenFiles": [
-    "programming/backendJava/javaEE/servlets-base/JSP and JSTL.md",
-    "programming/backendJava/javaEE/Java EE.md",
-    "временная/📂Что нужно для описания OBSIDIANE.md",
-    "programming/backendJava/javaEE/servlets-base/Session от Tomcat.md",
-    "programming/backendJava/javaEE/servlets-base/Servlets Cookie Session.md",
-    "programming/backendJava/javaEE/servlets-base/Аутентификация, logout, авторизация Servlets.md",
-    "programming/backendJava/javaEE/servlets-base/Цепочки фильтров.md",
-    "programming/backendJava/javaEE/servlets-base/Перенаправление при невыполнении условий фильтрации.md",
-    "programming/backendJava/javaEE/servlets-base/dispatcherTypes.md",
-    "programming/backendJava/javaEE/servlets-base/Ограничение применения фильтра с помощью servletNames.md",
-    "programming/backendJava/javaEE/servlets-base/Servlet Filters.md",
-    "programming/backendJava/javaEE/servlets-base/Перенаправление запросов.md",
-    "programming/backendJava/javaEE/servlets-base/Attributes.md",
-    "programming/backendJava/javaEE/servlets-base/Сookies.md",
-    "programming/backendJava/javaEE/servlets-base/Два взаимосвязанных сервлета через параметр.md",
-    "programming/backendJava/javaEE/servlets-base/Создание собственного Servlet.md",
-    "programming/backendJava/javaEE/servlets-base/Сервлеты.md",
-    "programming/backendJava/javaEE/servlets-base/Web Server Soket.md",
-    "programming/backendJava/javaEE/servlets-base/GET и POST запроса с помощью HTTPClient.md",
-    "programming/backendJava/javaEE/servlets-base/HTTPClientExample.md",
-    "programming/backendJava/javaEE/servlets-base/HTTP протоколом через класс URL.md",
-    "programming/backendJava/javaEE/servlets-base/Отправка и получение запроса используя DatagramSocket (UDP).md",
-    "programming/backendJava/javaEE/servlets-base/Отправка и получение запроса c помощью Socket и ServerSocket (TCP).md",
-    "programming/backendJava/javaEE/servlets-base/TCP&UDP Networking.md",
-    "programming/backendJava/javaEE/servlets-base/Socket.md",
-    "programming/backendJava/javaEE/servlets-base/Форматы данных.md",
+    "programming/backendJava/maven/Maven.md",
+    "Notion/Maven2.md",
+    "programming/backendJava/maven/all-maven/Нюансы.md",
+    "programming/backendJava/maven/all-maven/Cоздание нового модуля, наследование зависимостей.md",
+    "programming/backendJava/maven/all-maven/Развертывание проекта.md",
+    "programming/backendJava/maven/all-maven/Тестирование в Maven.md",
+    "programming/backendJava/maven/all-maven/Jacoco maven plugin.md",
+    "programming/backendJava/maven/all-maven/Запуск интеграционных тестов.md",
+    "programming/backendJava/maven/all-maven/Как исключить определенные тесты.md",
+    "programming/backendJava/maven/all-maven/Настройка тестирования.md",
+    "programming/backendJava/maven/all-maven/maven-surefire-plugin.md",
+    "programming/backendJava/maven/all-maven/Плагины сборки.md",
+    "programming/backendJava/maven/all-maven/maven-jar-plugin.md",
+    "programming/backendJava/maven/all-maven/maven-dependency-plugin.md",
+    "programming/backendJava/maven/all-maven/maven-source-plugin.md",
+    "programming/backendJava/maven/all-maven/maven-resources-plugin.md",
+    "programming/backendJava/maven/all-maven/maven-compiler-plugin.md",
+    "programming/backendJava/maven/all-maven/Жизненный цикл Maven, плагины, Goals плагинов.md",
+    "programming/backendJava/maven/all-maven/Плагины.md",
+    "programming/backendJava/maven/all-maven/Goals.md",
+    "programming/backendJava/maven/all-maven/Жизненный цикл.md",
+    "programming/backendJava/maven/all-maven/Dependencies.md",
+    "programming/backendJava/maven/all-maven/Транзитивные зависимости.md",
+    "programming/backendJava/maven/all-maven/Добавление стороннего repository в pom.xml.md",
+    "programming/backendJava/maven/all-maven/Области видимости dependencies(scope).md",
+    "programming/backendJava/maven/all-maven/Общие сведения.md",
+    "programming/backendJava/maven/all-maven",
+    "images/Pasted image 20240916150335.png",
     "images/Pasted image 20240913150231.png",
     "images/Pasted image 20240913150204.png",
     "images/Pasted image 20240913150202.png",
@@ -222,7 +179,6 @@
     "images/Pasted image 20240913145757.png",
     "images/Pasted image 20240913145042.png",
     "images/Pasted image 20240913145015.png",
-    "images/Pasted image 20240913144847.png",
     "programming/backendJava/networks/network",
     "Лекция Модель и стек протоколов TCP",
     "HTTP",
@@ -232,7 +188,6 @@
     "programming/backendJava/kafka",
     "Notion/Тестирование",
     "Notion/Hibernate",
-    "Notion/Algorithm",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

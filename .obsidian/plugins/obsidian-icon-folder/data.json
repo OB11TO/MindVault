@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiApachemaven",
       "SiWebauthn",
       "FasNetworkWired",
       "RiJavaLine",
-      "BoBxlJava",
-      "RiJavaFill"
+      "BoBxlJava"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -130,5 +130,7 @@
   "programming/backendJava/javaSE/java-core": {
     "iconName": "RiJavaFill",
     "iconColor": "#c6942a"
-  }
+  },
+  "programming/backendJava/maven/Maven.md": "SiApachemaven",
+  "programming/backendJava/maven/all-maven": "SiApachemaven"
 }
