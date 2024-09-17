@@ -4,11 +4,17 @@ tags:
   - Groovy
 related_topics: 
 created: 2024-09-17 18:15
-modified: 2024-09-17T18:34:10+03:00
+modified: 2024-09-17T18:47:00+03:00
 questions: 
 notes: 
 links: 
 ---
+
+---
+[[Closure info]]
+
+----
+
 
 ### Closure
 
@@ -66,3 +72,4 @@ links:
 ==ДЛЯ ОЗНАКОМЛЕНИЯ.==
 
 ![[images/Untitled 30 2.png|Untitled 30 2.png]]
+

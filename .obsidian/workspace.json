@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32f1e0fd5bdde2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/groovy/Groovy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/Java Developer.md",
+                "file": "programming/backendJava/groovy/Groovy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/Java Developer.md",
+                "file": "programming/backendJava/groovy/Groovy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/Java Developer.md"
+                "file": "programming/backendJava/groovy/Groovy.md"
               }
             }
           }
@@ -148,19 +161,20 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "14172a8b48f4845f",
+  "active": "a3f1da65a8773f2c",
   "lastOpenFiles": [
+    "programming/backendJava/groovy/all-groovy/Closure.md",
+    "programming/backendJava/groovy/all-groovy/Closure info.md",
     "programming/backendJava/groovy/Groovy.md",
+    "programming/backendJava/Java Developer.md",
     "programming/backendJava/groovy/all-groovy/DSL Domain Specific Language.md",
     "programming/backendJava/groovy/all-groovy/Dynamic programming MOP.md",
     "programming/backendJava/groovy/all-groovy/AST transformations.md",
     "programming/backendJava/groovy/all-groovy/Операторы.md",
     "programming/backendJava/groovy/all-groovy/Оператор if else.md",
-    "programming/backendJava/groovy/all-groovy/Closure.md",
     "programming/backendJava/groovy/all-groovy/Примитивные типы.md",
     "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
     "programming/backendJava/groovy/all-groovy/Введение.md",
-    "programming/backendJava/Java Developer.md",
     "Notion/Groovy 2.md",
     "programming/backendJava/groovy/all-groovy/OOP.md",
     "programming/backendJava/groovy/all-groovy/Коллекции.md",
@@ -177,7 +191,6 @@
     "programming/backendJava/gradle/all-gradle/Dependency Management.md",
     "programming/backendJava/gradle/all-gradle/Repositories.md",
     "programming/backendJava/gradle/all-gradle/Plugins.md",
-    "programming/backendJava/gradle/all-gradle/SourseSet.md",
     "images/Pasted image 20240917152200.png",
     "images/Pasted image 20240917132734.png",
     "images/Pasted image 20240917132724.png",
