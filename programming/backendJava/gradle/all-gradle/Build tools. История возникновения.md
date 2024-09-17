@@ -4,13 +4,13 @@ tags:
   - Gradle
 related_topics: 
 created: 2024-09-16 18:28
-modified: 2024-09-16T18:29:01+03:00
+modified: 2024-09-17T17:48:42+03:00
 questions: 
 notes: 
 links: 
 ---
 
-Build tools. История возникновения
+## Build tools. История возникновения
 
 ![[images/Untitled 20 4.png|Untitled 20 4.png]]
 
@@ -20,11 +20,11 @@ Build tools. История возникновения
 
 ##  Gradle Object Model
 
-==Интерфейсы== ==Gradle Settings Project Task Action Script==
+Интерфейсы <mark class="hltr-red">Gradle Settings Project Task Action Script</mark>
 
 - Под капотом считывается build scripts и строится модель
-- ==Settings -== ==для конфигурации== `==settings.==``gradle` и случит для ==конфигурации иерархии== ==Project== ==объектов.==
-- ==Project -== служит для конфигурации `build.gradle`
-- ==Task== для ==описания задачи== в файле.
-- ==Action -== все ==таски разбиваются на части==.
-- ==Script -== описывает все скрипты, которые выше. Создает их.
+- <mark class="hltr-purple">Settings</mark>  ==для конфигурации== `settings.gradle` и служит для ==конфигурации иерархии== <mark class="hltr-green2">Project</mark> ==объектов.==
+- <mark class="hltr-purple">Project</mark>  служит <mark class="hltr-yellow">для конфигурации</mark> `build.gradle`
+- <mark class="hltr-purple">Task</mark> для ==описания задачи== в файле.
+- <mark class="hltr-purple">Action</mark>  все ==таски разбиваются на части==.
+- <mark class="hltr-purple">Script</mark>  описывает все скрипты, которые выше. Создает их.

@@ -4,11 +4,12 @@ tags:
   - Maven
 related_topics: 
 created: 2024-09-16 17:42
-modified: 2024-09-16T17:43:06+03:00
+modified: 2024-09-17T16:45:36+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ### maven-dependency-plugin
 
 ```XML

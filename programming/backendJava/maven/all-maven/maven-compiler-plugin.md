@@ -4,7 +4,7 @@ tags:
   - Maven
 related_topics: 
 created: 2024-09-16 17:41
-modified: 2024-09-16T17:42:10+03:00
+modified: 2024-09-17T16:43:31+03:00
 questions: 
 notes: 
 links: 
@@ -12,8 +12,8 @@ links:
 
 ### maven-compiler-plugin
 
-Самый популярный плагин, позволяющий управлять версией компилятора и  
-используемый практически во всех проектах, – это компилятор  
+Самый популярный плагин, позволяющий<mark class="hltr-yellow"> управлять версией компилятора и  
+используемый практически во всех проектах</mark>, – это компилятор  
 `maven-compiler-plugin`.
 
 ```XML
@@ -38,12 +38,12 @@ links:
 
 Плагин `maven-compiler-plugin` имеет три цели (goals):
 
-- `compiler:compile` – компиляция исходников, по умолчанию связана с фазой compile
-- `compiler:testCompile` – компиляция тестов, по умолчанию связана с фазой test-compile.
-- `compiler:help` - вывод информации о целях
+- `compiler:compile` – <mark class="hltr-yellow">компиляция исходников</mark>, по умолчанию связана с фазой compile
+- `compiler:testCompile` – <mark class="hltr-blue">компиляция тестов</mark>, по умолчанию связана с фазой test-compile.
+- `compiler:help` - <mark class="hltr-purple">вывод информации о целях</mark>
 
-Также можно указать список аргументов, которые будут переданы javac-компилятору в командной строке:
-
+Также<mark class="hltr-pink"> можно указать список аргументов, которые будут переданы javac-компилятору в командной строке:
+</mark>
 ```XML
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>

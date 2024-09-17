@@ -3,18 +3,20 @@ title: Java Developer
 tags: []
 related_topics: 
 created: 2024-08-29 16:48
-modified: 2024-09-16T18:49:37+03:00
+modified: 2024-09-17T18:41:45+03:00
 difficulty: expert
 questions: 
 notes: Каждый день превосходи свой предел!
 links: 
 ---
-## Краткое описание
+
+
 > [!info] Здесь собрана вся информация, которую я собрал и продолжаю собирать. 
 > `Путь к Senior` 
 
 # [[Java SE]]
 # [[Java EE]]
+# [[Groovy]]
 
 # [[Network]]
 # PostgreSql

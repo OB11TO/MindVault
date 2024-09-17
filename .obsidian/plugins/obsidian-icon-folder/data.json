@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiApachegroovy",
       "TiNetwork",
       "SiGit",
       "FabGit",
-      "SiGradle",
-      "SiApachemaven"
+      "SiGradle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -166,5 +166,17 @@
   "programming/backendJava/git/all-git": {
     "iconName": "SiGit",
     "iconColor": "#e17014"
+  },
+  "programming/backendJava/groovy": {
+    "iconName": "SiApachegroovy",
+    "iconColor": "#3d91af"
+  },
+  "programming/backendJava/groovy/Groovy.md": {
+    "iconName": "SiApachegroovy",
+    "iconColor": "#3d91af"
+  },
+  "programming/backendJava/groovy/all-groovy": {
+    "iconName": "SiApachegroovy",
+    "iconColor": "#3d91af"
   }
 }

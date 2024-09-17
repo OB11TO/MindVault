@@ -111,6 +111,11 @@
       "id": "rina1CXDDLRUhnkEY3Ocx",
       "name": "kafka",
       "value": "#ff0000"
+    },
+    {
+      "id": "a3pyCCCucLVH73JovmJFs",
+      "name": "groovy",
+      "value": "#3d91af"
     }
   ],
   "fileColors": [
@@ -205,6 +210,10 @@
     {
       "path": "programming/backendJava/javaEE/apache tomcat",
       "color": "BnDTqNeYU40hXk4fiS6wj"
+    },
+    {
+      "path": "programming/backendJava/groovy",
+      "color": "a3pyCCCucLVH73JovmJFs"
     }
   ]
 }

@@ -4,11 +4,12 @@ tags:
   - Maven
 related_topics: 
 created: 2024-09-16 17:42
-modified: 2024-09-16T17:42:52+03:00
+modified: 2024-09-17T16:45:12+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ### maven-source-plugin
 
 Еще один полезный плагин – `maven-source-plugin` позволяет включать в сборку исходный код ваших java-файлов.

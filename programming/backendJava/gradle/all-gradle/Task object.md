@@ -4,12 +4,12 @@ tags:
   - Gradle
 related_topics: 
 created: 2024-09-16 18:30
-modified: 2024-09-16T18:31:05+03:00
+modified: 2024-09-17T17:52:21+03:00
 questions: 
 notes: 
 links: 
 ---
-Task object
+### Task object
 
 ==**ИНИЦИАЛИЗАЦИЯ TASK**==
 

@@ -4,11 +4,16 @@ tags:
   - Maven
 related_topics: 
 created: 2024-09-16 17:46
-modified: 2024-09-16T17:47:04+03:00
+modified: 2024-09-17T17:09:39+03:00
 questions: 
 notes: 
 links: 
 ---
+
+---
+[[pluginManegment and dependencyManegment]]
+
+----
 
 ### Cоздание нового модуля, наследование зависимостей
 
@@ -53,7 +58,8 @@ links:
 [INFO] Installing /home/vadim/IdeaProjects/LifeCyclesMaven/database/pom.xml to /home/vadim/.m2/repository/org/example/database/1.0-SNAPSHOT/database-1.0-SNAPSHOT.pom
 ```
 
-При этом можно наследовать зависимости, в пом родителя в раздел <\dependencyManagement> добавляем наши зависимости. В наследника добавляем завиимость без добавления версии. Пример:
+При этом<mark class="hltr-yellow"> можно наследовать зависимости, в пом родителя в раздел</mark> <\dependencyManagement> <mark class="hltr-green2">добавляем наши зависимости. В наследника добавляем завиимость без добавления версии</mark>. Пример:
+Если без \dependencyManagement, то тогда все child будут наследовать все зависимости автоматически, а так мы сами определяем какие именно зависимости они будут наследовать.
 
 ```XML
 <groupId>org.example</groupId>
@@ -97,3 +103,5 @@ links:
 ```
 
 ![[images/Untitled 15 6.png|Untitled 15 6.png]]
+
+
