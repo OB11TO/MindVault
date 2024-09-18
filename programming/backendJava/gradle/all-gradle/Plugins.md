@@ -4,7 +4,7 @@ tags:
   - Gradle
 related_topics: 
 created: 2024-09-16 18:32
-modified: 2024-09-17T17:57:37+03:00
+modified: 2024-09-18T16:58:40+03:00
 questions: 
 notes: 
 links: 
@@ -37,7 +37,7 @@ links:
 
 ==**Под капотом**==
 
-- ==Наследуется==
+- ==Наследуется== от базового Plugin<\Project>
 - Есть метод `apply` + ==делегирует== ==другие== ==вызовы==
 
 ![[images/Untitled 48 4.png|Untitled 48 4.png]]
@@ -59,6 +59,6 @@ links:
 
   
 
-- Graph
+#### Graph
 
 ![[images/Untitled 53 4.png|Untitled 53 4.png]]

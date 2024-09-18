@@ -4,7 +4,7 @@ tags:
   - Gradle
 related_topics: 
 created: 2024-09-16 18:31
-modified: 2024-09-16T18:31:46+03:00
+modified: 2024-09-18T15:43:20+03:00
 questions: 
 notes: 
 links: 
@@ -14,6 +14,9 @@ links:
 ## Task graph
 
 ![[images/Untitled 21 4.png|Untitled 21 4.png]]
+
+
+#### Зависимость Task
 
 - ==Можно прописывать зависимости== `task` с ==помощью== `dependsOn(Objects…. paths)`
 
@@ -25,8 +28,8 @@ links:
 
 ![[images/Untitled 39 4.png|Untitled 39 4.png]]
 
-- `mustRunAfter` - ==обязан== идти после второго
-- `shouldRunAfter` - ==должен== идти после второго
+- `mustRunAfter` - ==обязан== идти после second
+- `shouldRunAfter` - ==должен== идти после second
 
 ![[images/Untitled 40 4.png|Untitled 40 4.png]]
 

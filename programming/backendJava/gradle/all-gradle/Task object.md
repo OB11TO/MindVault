@@ -4,11 +4,12 @@ tags:
   - Gradle
 related_topics: 
 created: 2024-09-16 18:30
-modified: 2024-09-17T17:52:21+03:00
+modified: 2024-09-18T15:09:49+03:00
 questions: 
 notes: 
 links: 
 ---
+
 ### Task object
 
 ==**ИНИЦИАЛИЗАЦИЯ TASK**==
@@ -25,6 +26,7 @@ links:
 - ==Можно через== `Closure`
 
 ![[images/Untitled 30 4.png|Untitled 30 4.png]]
+![[Pasted image 20240918150939.png]]
 
 - ==Предпочтительный вариант== (==Лучше скобки и кавычки убрать==)
 

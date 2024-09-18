@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9109081431b0e00",
+            "id": "e817e07f88108c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/groovy/Groovy.md",
+                "file": "programming/backendJava/gradle/Gradle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f67f6387c7f54603",
+            "id": "3c916bde7a34ac55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
+                "file": "programming/backendJava/gradle/all-gradle/Plugins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d593884924b8af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/gradle/all-gradle/SourseSet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
+                "file": "programming/backendJava/gradle/all-gradle/SourseSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
+                "file": "programming/backendJava/gradle/all-gradle/SourseSet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md"
+                "file": "programming/backendJava/gradle/all-gradle/SourseSet.md"
               }
             }
           }
@@ -161,46 +173,46 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "f67f6387c7f54603",
+  "active": "2d593884924b8af1",
   "lastOpenFiles": [
-    "programming/backendJava/groovy/Groovy.md",
-    "временная/📂Что нужно для описания OBSIDIANE.md",
+    "programming/backendJava/gradle/all-gradle/Plugins.md",
+    "programming/backendJava/gradle/all-gradle/Properties.md",
     "programming/backendJava/gradle/Gradle.md",
-    "programming/backendJava/Java Developer.md",
-    "programming/backendJava/groovy/all-groovy/Введение.md",
-    "programming/backendJava/groovy/all-groovy/Closure.md",
-    "programming/backendJava/groovy/all-groovy/Closure info.md",
+    "programming/backendJava/gradle/all-gradle/Task graph.md",
+    "programming/backendJava/gradle/all-gradle/Gradle Lifecycle.md",
+    "programming/backendJava/gradle/all-gradle/Action object.md",
+    "programming/backendJava/gradle/all-gradle/Task object.md",
+    "images/Pasted image 20240918150939.png",
+    "programming/backendJava/gradle/all-gradle/Project object.md",
+    "programming/backendJava/gradle/all-gradle/Settings object.md",
+    "programming/backendJava/gradle/all-gradle/Gradle object.md",
+    "programming/backendJava/gradle/all-gradle/Build tools. История возникновения.md",
     "programming/backendJava/groovy/all-groovy/DSL Domain Specific Language.md",
+    "programming/backendJava/groovy/Groovy.md",
+    "programming/backendJava/groovy/all-groovy/Closure.md",
     "programming/backendJava/groovy/all-groovy/Dynamic programming MOP.md",
     "programming/backendJava/groovy/all-groovy/AST transformations.md",
+    "images/Pasted image 20240918123419.png",
+    "images/Pasted image 20240918122918.png",
+    "images/Pasted image 20240918122053.png",
+    "images/Pasted image 20240918121845.png",
+    "images/Pasted image 20240918121621.png",
+    "images/Pasted image 20240918121617.png",
+    "images/Pasted image 20240918121500.png",
+    "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
+    "images/Pasted image 20240918114919.png",
+    "временная/📂Что нужно для описания OBSIDIANE.md",
+    "programming/backendJava/Java Developer.md",
+    "programming/backendJava/groovy/all-groovy/Введение.md",
+    "programming/backendJava/groovy/all-groovy/Closure info.md",
     "programming/backendJava/groovy/all-groovy/Операторы.md",
     "programming/backendJava/groovy/all-groovy/Оператор if else.md",
     "programming/backendJava/groovy/all-groovy/Примитивные типы.md",
-    "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
     "Notion/Groovy 2.md",
     "programming/backendJava/groovy/all-groovy/OOP.md",
-    "programming/backendJava/groovy/all-groovy/Коллекции.md",
-    "programming/backendJava/groovy/all-groovy/Object iteration.md",
-    "programming/backendJava/groovy/all-groovy/Ranges Диапазоны.md",
-    "programming/backendJava/groovy/all-groovy/Maps Ассоциативные массивы.md",
-    "programming/backendJava/groovy/all-groovy/Lists Списки.md",
-    "programming/backendJava/groovy/all-groovy/Loops Циклы.md",
-    "programming/backendJava/groovy/all-groovy/Оператор switch.md",
     "programming/backendJava/groovy/all-groovy",
     "programming/backendJava/groovy",
-    "programming/backendJava/gradle/all-gradle/Multiproject builds.md",
-    "programming/backendJava/gradle/all-gradle/Dependency Management.md",
-    "programming/backendJava/gradle/all-gradle/Repositories.md",
     "images/Pasted image 20240917152200.png",
-    "images/Pasted image 20240917132734.png",
-    "images/Pasted image 20240917132724.png",
-    "images/Pasted image 20240917132706.png",
-    "images/Pasted image 20240917132652.png",
-    "images/Pasted image 20240917132606.png",
-    "images/Pasted image 20240917132545.png",
-    "images/Pasted image 20240917132532.png",
-    "images/Pasted image 20240917132519.png",
-    "images/Pasted image 20240917132502.png",
     "programming/backendJava/git/all-git",
     "programming/backendJava/gradle/all-gradle",
     "programming/backendJava/maven/all-maven",

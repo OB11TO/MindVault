@@ -4,7 +4,7 @@ tags:
   - Gradle
 related_topics: 
 created: 2024-09-16 18:28
-modified: 2024-09-17T17:48:42+03:00
+modified: 2024-09-18T14:29:30+03:00
 questions: 
 notes: 
 links: 
@@ -28,3 +28,5 @@ links:
 - <mark class="hltr-purple">Task</mark> для ==описания задачи== в файле.
 - <mark class="hltr-purple">Action</mark>  все ==таски разбиваются на части==.
 - <mark class="hltr-purple">Script</mark>  описывает все скрипты, которые выше. Создает их.
+
+ 
