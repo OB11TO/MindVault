@@ -4,13 +4,13 @@ tags:
   - Groovy
 related_topics: 
 created: 2024-09-17 18:14
-modified: 2024-09-17T18:15:01+03:00
+modified: 2024-09-18T11:45:17+03:00
 questions: 
 notes: 
 links: 
 ---
 
-ClassLoader. ClassPath
+## ClassLoader. ClassPath
 
 ![[images/Untitled 6 6.png|Untitled 6 6.png]]
 
@@ -18,3 +18,4 @@ ClassLoader. ClassPath
 
 - `Root ClassLoader` рутовый, который наслдуется от urlClassloader
 - `Groovy ClassLoader`
+- 

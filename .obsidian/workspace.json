@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14172a8b48f4845f",
+            "id": "d9109081431b0e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/Java Developer.md",
+                "file": "programming/backendJava/groovy/Groovy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32f1e0fd5bdde2b8",
+            "id": "f67f6387c7f54603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/groovy/Groovy.md",
+                "file": "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/groovy/Groovy.md",
+                "file": "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/groovy/Groovy.md",
+                "file": "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/groovy/Groovy.md"
+                "file": "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md"
               }
             }
           }
@@ -161,12 +161,15 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "a3f1da65a8773f2c",
+  "active": "f67f6387c7f54603",
   "lastOpenFiles": [
+    "programming/backendJava/groovy/Groovy.md",
+    "временная/📂Что нужно для описания OBSIDIANE.md",
+    "programming/backendJava/gradle/Gradle.md",
+    "programming/backendJava/Java Developer.md",
+    "programming/backendJava/groovy/all-groovy/Введение.md",
     "programming/backendJava/groovy/all-groovy/Closure.md",
     "programming/backendJava/groovy/all-groovy/Closure info.md",
-    "programming/backendJava/groovy/Groovy.md",
-    "programming/backendJava/Java Developer.md",
     "programming/backendJava/groovy/all-groovy/DSL Domain Specific Language.md",
     "programming/backendJava/groovy/all-groovy/Dynamic programming MOP.md",
     "programming/backendJava/groovy/all-groovy/AST transformations.md",
@@ -174,7 +177,6 @@
     "programming/backendJava/groovy/all-groovy/Оператор if else.md",
     "programming/backendJava/groovy/all-groovy/Примитивные типы.md",
     "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
-    "programming/backendJava/groovy/all-groovy/Введение.md",
     "Notion/Groovy 2.md",
     "programming/backendJava/groovy/all-groovy/OOP.md",
     "programming/backendJava/groovy/all-groovy/Коллекции.md",
@@ -186,11 +188,9 @@
     "programming/backendJava/groovy/all-groovy/Оператор switch.md",
     "programming/backendJava/groovy/all-groovy",
     "programming/backendJava/groovy",
-    "programming/backendJava/gradle/Gradle.md",
     "programming/backendJava/gradle/all-gradle/Multiproject builds.md",
     "programming/backendJava/gradle/all-gradle/Dependency Management.md",
     "programming/backendJava/gradle/all-gradle/Repositories.md",
-    "programming/backendJava/gradle/all-gradle/Plugins.md",
     "images/Pasted image 20240917152200.png",
     "images/Pasted image 20240917132734.png",
     "images/Pasted image 20240917132724.png",
