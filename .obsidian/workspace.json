@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/redis/Redis.md",
+                "file": "programming/backendJava/redis/all-redis/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/redis/Redis.md",
+                "file": "programming/backendJava/redis/all-redis/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/redis/Redis.md",
+                "file": "programming/backendJava/redis/all-redis/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/redis/Redis.md"
+                "file": "programming/backendJava/redis/all-redis/Test.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "5350c820df5f0ce6",
   "lastOpenFiles": [
+    "programming/backendJava/redis/Redis.md",
+    "programming/backendJava/redis/all-redis/Test.md",
     "Notion/Hibernate.md",
     "Notion/System Design.md",
     "Notion/Docker.md",
@@ -159,7 +161,6 @@
     "Notion/Тестирование.md",
     "programming/backendJava/Java Developer.md",
     "Notion/Redis2.md",
-    "programming/backendJava/redis/Redis.md",
     "programming/backendJava/oracle/Oracle.md",
     "programming/backendJava/postgresql/PostgreSql.md",
     "programming/backendJava/oracle/all-oracle",
@@ -188,7 +189,6 @@
     "programming/backendJava/groovy/all-groovy/DSL Domain Specific Language.md",
     "programming/backendJava/groovy/all-groovy/Dynamic programming MOP.md",
     "programming/backendJava/groovy/all-groovy/AST transformations.md",
-    "programming/backendJava/groovy/all-groovy/Операторы.md",
     "programming/backendJava/groovy/all-groovy",
     "programming/backendJava/groovy",
     "programming/backendJava/git/all-git",
