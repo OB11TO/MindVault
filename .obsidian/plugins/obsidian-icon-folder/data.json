@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiApachegroovy",
-      "TiNetwork",
-      "SiGit",
-      "FabGit",
-      "SiGradle"
+      "SiOracle",
+      "SiRedis",
+      "BoBxlPostgresql",
+      "SiPostgresql",
+      "SiApachegroovy"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -178,5 +178,29 @@
   "programming/backendJava/groovy/all-groovy": {
     "iconName": "SiApachegroovy",
     "iconColor": "#3d91af"
+  },
+  "programming/backendJava/postgresql/all-postgresql": {
+    "iconName": "BoBxlPostgresql",
+    "iconColor": "#0e86af"
+  },
+  "programming/backendJava/postgresql/PostgreSql.md": {
+    "iconName": "BoBxlPostgresql",
+    "iconColor": "#0e86af"
+  },
+  "programming/backendJava/redis/all-redis": {
+    "iconName": "SiRedis",
+    "iconColor": "#c31d1d"
+  },
+  "programming/backendJava/redis/Redis.md": {
+    "iconName": "SiRedis",
+    "iconColor": "#c31d1d"
+  },
+  "programming/backendJava/oracle/all-oracle": {
+    "iconName": "SiOracle",
+    "iconColor": "#d9540d"
+  },
+  "programming/backendJava/oracle/Oracle.md": {
+    "iconName": "SiOracle",
+    "iconColor": "#d9540d"
   }
 }

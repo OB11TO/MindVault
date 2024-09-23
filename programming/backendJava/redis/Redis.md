@@ -1,12 +1,14 @@
 ---
-modified: 2024-09-02T13:33:47+03:00
+title: Redis
+tags:
+  - Redis
+related_topics: 
+created: 2024-09-23 14:50
+modified: 2024-09-23T15:12:10+03:00
+questions: 
+notes: 
+links: 
 ---
-# Section 1: Теория
-
-  
-
-
-# Section 1: Практика
 
 - Получить сколько данных лежит в базе
 

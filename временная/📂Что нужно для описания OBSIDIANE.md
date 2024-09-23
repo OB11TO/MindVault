@@ -1,6 +1,6 @@
 ---
 tags: []
-modified: 2024-09-17T17:44:41+03:00
+modified: 2024-09-23T14:45:48+03:00
 ---
 1) Создать тэги - Java Core и тд.
 2) Создать Время начала и обновления файла
@@ -30,13 +30,14 @@ modified: 2024-09-17T17:44:41+03:00
 
 
 Закрытие повторений 
-- Java SE - 8 часов - 12 сентября 
-- networks - 8 часов - 13 сентября 
-- Java EE - 8 часов - 14 сентября 
+- <mark class="hltr-green2">Java SE - 8 часов - 12 сентября  </mark>
+- <mark class="hltr-green2">networks - 8 часов - 13 сентября </mark>
+- <mark class="hltr-green2">Java EE - 8 часов - 14 сентября </mark>
+- <mark class="hltr-green2">Gradle/Maven/Groovy - 18 сентября среда</mark>
 
--  Gradle/Maven/Groovy - 18 сентября среда
+- redis -  23 сентября 
 
-- postgres/oracle/redis/ - 19 сентября 22 сентября 23 сентября 24 сентября
+-  postgres/oracle 24 сентября 25 сентября 26 сентября
 - testing - 25 сентября 26 сентября 
 -  liquibase/flayway   - 27 сентября
 - jdbc/hibernate -  30 сентября  1 октября 2 октября 3 октября 
