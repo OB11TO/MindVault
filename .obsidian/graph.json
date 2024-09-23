@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 4034991
       }
+    },
+    {
+      "query": "tag:#Redis  ",
+      "color": {
+        "a": 1,
+        "rgb": 12786973
+      }
     }
   ],
   "collapse-display": true,
@@ -123,6 +130,6 @@
   "repelStrength": 15.4166666666667,
   "linkStrength": 0.807291666666667,
   "linkDistance": 162,
-  "scale": 0.08317427835927899,
-  "close": false
+  "scale": 0.12855879467114603,
+  "close": true
 }

@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/redis/all-redis/Test.md",
+                "file": "programming/backendJava/redis/Redis.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb0c1e209993d31f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/redis/all-redis/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/redis/all-redis/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "programming/backendJava/redis/all-redis/Test.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,9 +153,16 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "5350c820df5f0ce6",
+  "active": "a3f1da65a8773f2c",
   "lastOpenFiles": [
     "programming/backendJava/redis/Redis.md",
+    "programming/backendJava/redis/all-redis/Repository Redis.md",
+    "programming/backendJava/redis/all-redis/Отличия RedisTemplate vs Redis Repository.md",
+    "programming/backendJava/redis/all-redis/Введение в Redis.md",
+    "programming/backendJava/redis/all-redis/Транзакции в Redis.md",
+    "programming/backendJava/redis/all-redis/@Transactional для работы с Redis.md",
+    "programming/backendJava/redis/all-redis/Kafka vs Redis.md",
+    "programming/backendJava/redis/all-redis/Redis Streams.md",
     "programming/backendJava/redis/all-redis/Test.md",
     "Notion/Hibernate.md",
     "Notion/System Design.md",
@@ -180,15 +192,8 @@
     "images/Pasted image 20240923115038.png",
     "images/Pasted image 20240923115036.png",
     "images/Pasted image 20240923114756.png",
-    "programming/backendJava/groovy/Groovy.md",
     "images/Pasted image 20240918150939.png",
     "images/Pasted image 20240918123419.png",
-    "programming/backendJava/gradle/Gradle.md",
-    "programming/backendJava/groovy/all-groovy/Введение.md",
-    "programming/backendJava/groovy/all-groovy/Closure info.md",
-    "programming/backendJava/groovy/all-groovy/DSL Domain Specific Language.md",
-    "programming/backendJava/groovy/all-groovy/Dynamic programming MOP.md",
-    "programming/backendJava/groovy/all-groovy/AST transformations.md",
     "programming/backendJava/groovy/all-groovy",
     "programming/backendJava/groovy",
     "programming/backendJava/git/all-git",
