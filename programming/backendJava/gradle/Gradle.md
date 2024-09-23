@@ -4,7 +4,7 @@ tags:
   - Gradle
 related_topics: 
 created: 2024-09-16 17:59
-modified: 2024-09-16T18:35:22+03:00
+modified: 2024-09-23T13:08:29+03:00
 questions: 
 notes: 
 links: 
@@ -22,5 +22,9 @@ links:
 [[Plugins]]
 ##### Dependency Management
 [[Dependency Management]]
+##### Jar & War
+[[Jar War]]
 ##### Multiproject builds
 [[Multiproject builds]]
+##### BuildScripts
+[[BuildScripts]]
