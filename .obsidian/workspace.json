@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "dde86ae13eef8417",
+        "id": "c38089a2a3517024",
         "type": "tabs",
         "children": [
           {
-            "id": "5350c820df5f0ce6",
+            "id": "41a0e0d88018c306",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/redis/Redis.md",
-                "mode": "source",
+                "file": "programming/backendJava/Java Developer.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "f0785e6fab936a93",
+            "id": "bb31ca92c3a36c14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/backendJava/redis/all-redis/Repository Redis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/redis/all-redis/Repository Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/redis/all-redis/Repository Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "programming/backendJava/redis/all-redis/Repository Redis.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,37 +153,37 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "f0785e6fab936a93",
+  "active": "bb31ca92c3a36c14",
   "lastOpenFiles": [
+    "programming/backendJava/Java Developer.md",
     "programming/backendJava/redis/Redis.md",
-    "programming/backendJava/redis/all-redis/Введение в Redis.md",
+    "programming/backendJava/redis/all-redis/Test.md",
+    "programming/backendJava/redis/all-redis/Repository Redis.md",
     "programming/backendJava/redis/all-redis/Транзакции в Redis.md",
-    "programming/backendJava/redis/all-redis/@Transactional для работы с Redis.md",
-    "programming/backendJava/redis/all-redis/Kafka vs Redis.md",
+    "programming/backendJava/redis/all-redis/Отличия RedisTemplate vs Redis Repository.md",
+    "programming/backendJava/redis/all-redis/Введение в Redis.md",
     "programming/backendJava/redis/all-redis/Redis Streams.md",
-    "programming/backendJava/maven/Maven.md",
-    "programming/backendJava/gradle/Gradle.md",
-    "programming/backendJava/gradle/all-gradle/BuildScripts.md",
-    "programming/backendJava/gradle/all-gradle/Multiproject builds.md",
-    "programming/backendJava/gradle/all-gradle/Jar War.md",
-    "programming/backendJava/gradle/all-gradle/Dependency Management.md",
-    "programming/backendJava/gradle/all-gradle/PlatformSupport.md",
-    "programming/backendJava/gradle/all-gradle/Транзитивные зависимости Gradle.md",
-    "programming/backendJava/gradle/all-gradle/Dependency Configuration.md",
-    "programming/backendJava/gradle/all-gradle/Repositories.md",
-    "programming/backendJava/gradle/all-gradle/Plugins.md",
-    "programming/backendJava/gradle/all-gradle/SourseSet.md",
-    "programming/backendJava/gradle/all-gradle/Properties.md",
-    "programming/backendJava/gradle/all-gradle/Task graph.md",
-    "programming/backendJava/gradle/all-gradle/Gradle Lifecycle.md",
-    "programming/backendJava/gradle/all-gradle/Action object.md",
-    "programming/backendJava/gradle/all-gradle/Task object.md",
-    "programming/backendJava/gradle/all-gradle/Project object.md",
-    "programming/backendJava/gradle/all-gradle/Settings object.md",
-    "programming/backendJava/gradle/all-gradle/Gradle object.md",
+    "programming/backendJava/redis/all-redis/Kafka vs Redis.md",
+    "programming/backendJava/redis/all-redis/@Transactional для работы с Redis.md",
+    "Notion/Hibernate.md",
+    "Notion/System Design.md",
+    "Notion/Docker.md",
+    "Notion/Liquibase.md",
+    "Notion/DB - PostgreSql.md",
+    "Notion/Bash.md",
+    "Notion/Тестирование.md",
+    "Notion/Redis2.md",
+    "programming/backendJava/oracle/Oracle.md",
+    "programming/backendJava/postgresql/PostgreSql.md",
     "programming/backendJava/oracle/all-oracle",
+    "временная/📂Что нужно для описания OBSIDIANE.md",
     "programming/backendJava/redis/all-redis",
     "programming/backendJava/postgresql/all-postgresql",
+    "programming/backendJava/groovy/all-groovy/Closure.md",
+    "programming/backendJava/groovy/all-groovy/ClassLoader ClassPath.md",
+    "programming/backendJava/javaEE/Java EE.md",
+    "programming/backendJava/gradle/all-gradle/Jar War.md",
+    "programming/backendJava/gradle/all-gradle/BuildScripts.md",
     "images/Pasted image 20240923130835.png",
     "images/Pasted image 20240923122153.png",
     "images/Pasted image 20240923121402.png",
