@@ -4,7 +4,7 @@ tags:
   - PostgreSql
 related_topics: 
 created: 2024-09-24 14:13
-modified: 2024-09-24T14:17:45+03:00
+modified: 2024-09-24T16:37:58+03:00
 questions: 
 notes: 
 links: 
@@ -22,5 +22,11 @@ links:
 [[Оконные функции]]
 [[Сортировка]]
 
-
 ---
+
+`Реляционная база данных (RDBMS) -` это тип базы данных, в которой<mark class="hltr-yellow"> данные организованы и доступны</mark> в ==виде наборов таблиц==. В реляционной базе данных каждая таблица представляет собой набор записей, состоящих из строк и столбцов, где каждый столбец представляет атрибут данных, а каждая строка представляет собой отдельную запись.
+
+![[images/Untitled 148.png|Untitled 148.png]]![[images/Untitled 1 9.png|Untitled 1 9.png]]
+![[images/Untitled 2 8.png|Untitled 2 8.png]]
+
+![[images/Untitled 3 8.png|Untitled 3 8.png]]

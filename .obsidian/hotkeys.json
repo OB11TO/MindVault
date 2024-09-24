@@ -77,5 +77,23 @@
       ],
       "key": " "
     }
+  ],
+  "code-block-from-selection:d971716e-6487-46ca-8a8e-7e2bf53a0c3e": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "code-block-from-selection:7c672611-9d33-45ca-aba6-287fb3581227": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
   ]
 }

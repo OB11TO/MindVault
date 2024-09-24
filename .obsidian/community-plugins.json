@@ -1,11 +1,12 @@
 [
   "obsidian-git",
   "obsidian-importer",
-  "unique-attachments",
   "shortcuts-extender",
   "code-block-from-selection",
   "frontmatter-modified-date",
   "highlightr-plugin",
   "obsidian-file-color",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "unique-attachments",
+  "obsidian-languagetool-plugin"
 ]

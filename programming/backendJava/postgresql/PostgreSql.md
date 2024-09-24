@@ -4,7 +4,7 @@ tags:
   - PostgreSql
 related_topics: 
 created: 2024-09-23 14:43
-modified: 2024-09-24T14:30:24+03:00
+modified: 2024-09-24T17:25:34+03:00
 questions: 
 notes: 
 links: 
@@ -15,7 +15,8 @@ links:
 ##### Нормальные формы
 [[Нормальные формы]]
 ##### View and Coursor 
-[[View and Coursor]]
+[[View]]
+[[Coursor]]
 ##### Joins
 [[Joins]]
 ##### Индексы
