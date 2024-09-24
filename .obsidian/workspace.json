@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "29e008a03eb72b82",
+        "id": "c38089a2a3517024",
         "type": "tabs",
+        "dimension": 51.479654747225645,
         "children": [
           {
-            "id": "3bcd9ecbcff335e4",
+            "id": "5b7aeb801d98d090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/DB - PostgreSql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68f4db0059b29ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +31,40 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2a2564232372b1ea",
+        "type": "tabs",
+        "dimension": 48.520345252774355,
+        "children": [
           {
-            "id": "401c9ad206258d62",
+            "id": "e60b2401ca34b0ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/redis/Redis.md",
+                "file": "programming/backendJava/postgresql/PostgreSql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc9f9f9332eb2d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/postgresql/all-postgresql/Основные концепции в PostgreSql.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 230.5
   },
   "right": {
     "id": "90247be8bdd1a185",
@@ -98,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/redis/Redis.md",
+                "file": "programming/backendJava/Java Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/redis/Redis.md",
+                "file": "programming/backendJava/Java Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/redis/Redis.md"
+                "file": "programming/backendJava/Java Developer.md"
               }
             }
           }
@@ -161,34 +193,34 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "401c9ad206258d62",
+  "active": "a3f1da65a8773f2c",
   "lastOpenFiles": [
+    "Notion/DB - PostgreSql.md",
     "programming/backendJava/postgresql/PostgreSql.md",
-    "programming/backendJava/Java Developer.md",
+    "programming/backendJava/postgresql/all-postgresql/Основные концепции в PostgreSql.md",
+    "programming/backendJava/postgresql/all-postgresql/Транзакции.md",
+    "programming/backendJava/postgresql/all-postgresql/Теорема CAP - NoSql.md",
+    "programming/backendJava/postgresql/all-postgresql/DWH.md",
+    "programming/backendJava/postgresql/all-postgresql/Триггеры.md",
+    "programming/backendJava/postgresql/all-postgresql/План выполнения Explan.md",
+    "programming/backendJava/postgresql/all-postgresql/Индексы.md",
+    "programming/backendJava/postgresql/all-postgresql/Можно ли создать кластеризованный индекс на столбце, содержащем дубликаты.md",
+    "programming/backendJava/postgresql/all-postgresql/Кластерный и обычный индекс.md",
+    "programming/backendJava/postgresql/all-postgresql/Виды индексов под капотом.md",
+    "programming/backendJava/postgresql/all-postgresql/B-деревья B-trees.md",
+    "programming/backendJava/postgresql/all-postgresql/Joins.md",
+    "programming/backendJava/postgresql/all-postgresql/View and Coursor.md",
+    "programming/backendJava/postgresql/all-postgresql/Нормальные формы.md",
     "programming/backendJava/redis/Redis.md",
+    "programming/backendJava/Java Developer.md",
+    "programming/backendJava/redis/all-redis/Test.md",
     "programming/backendJava/redis/all-redis/Repository Redis.md",
-    "programming/backendJava/redis/all-redis/Введение в Redis.md",
     "programming/backendJava/redis/all-redis/Транзакции в Redis.md",
-    "programming/backendJava/redis/all-redis/@Transactional для работы с Redis.md",
-    "programming/backendJava/redis/all-redis/Kafka vs Redis.md",
+    "programming/backendJava/redis/all-redis/Отличия RedisTemplate vs Redis Repository.md",
+    "programming/backendJava/redis/all-redis/Введение в Redis.md",
     "programming/backendJava/redis/all-redis/Redis Streams.md",
-    "programming/backendJava/maven/Maven.md",
-    "programming/backendJava/gradle/Gradle.md",
-    "programming/backendJava/gradle/all-gradle/BuildScripts.md",
-    "programming/backendJava/gradle/all-gradle/Multiproject builds.md",
-    "programming/backendJava/gradle/all-gradle/Jar War.md",
-    "programming/backendJava/gradle/all-gradle/Dependency Management.md",
-    "programming/backendJava/gradle/all-gradle/PlatformSupport.md",
-    "programming/backendJava/gradle/all-gradle/Транзитивные зависимости Gradle.md",
-    "programming/backendJava/gradle/all-gradle/Dependency Configuration.md",
-    "programming/backendJava/gradle/all-gradle/Repositories.md",
-    "programming/backendJava/gradle/all-gradle/Plugins.md",
-    "programming/backendJava/gradle/all-gradle/SourseSet.md",
-    "programming/backendJava/gradle/all-gradle/Properties.md",
-    "programming/backendJava/gradle/all-gradle/Task graph.md",
-    "programming/backendJava/gradle/all-gradle/Gradle Lifecycle.md",
-    "programming/backendJava/gradle/all-gradle/Action object.md",
-    "programming/backendJava/gradle/all-gradle/Task object.md",
+    "programming/backendJava/redis/all-redis/Kafka vs Redis.md",
+    "programming/backendJava/redis/all-redis/@Transactional для работы с Redis.md",
     "programming/backendJava/oracle/all-oracle",
     "programming/backendJava/redis/all-redis",
     "programming/backendJava/postgresql/all-postgresql",
