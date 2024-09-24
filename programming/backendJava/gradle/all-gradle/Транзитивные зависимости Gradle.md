@@ -4,7 +4,7 @@ tags:
   - Gradle
 related_topics: 
 created: 2024-09-16 18:34
-modified: 2024-09-23T11:50:49+03:00
+modified: 2024-09-24T12:19:53+03:00
 questions: 
 notes: 
 links: 
@@ -14,7 +14,7 @@ links:
 
 ![[images/Untitled 64 2.png|Untitled 64 2.png]]
 
-В `Gradle` есть дефолтная стратегия, которая берет версию выше всегда
+В `Gradle` е<mark class="hltr-green2">сть дефолтная стратегия, которая берет версию выше всегда</mark>
 
 
 
