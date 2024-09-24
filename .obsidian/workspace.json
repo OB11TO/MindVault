@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/postgresql/all-postgresql/Coursor.md",
+                "file": "programming/backendJava/postgresql/PostgreSql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/postgresql/all-postgresql/Coursor.md",
+                "file": "programming/backendJava/postgresql/PostgreSql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/postgresql/all-postgresql/Coursor.md"
+                "file": "programming/backendJava/postgresql/PostgreSql.md"
               }
             }
           }
@@ -179,10 +178,10 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "4fbdab4d1b6ffe46",
+  "active": "3bcd9ecbcff335e4",
   "lastOpenFiles": [
-    "Notion/DB - PostgreSql.md",
     "programming/backendJava/postgresql/all-postgresql/Coursor.md",
+    "Notion/DB - PostgreSql.md",
     "programming/backendJava/postgresql/PostgreSql.md",
     "programming/backendJava/postgresql/all-postgresql/View.md",
     "programming/backendJava/postgresql/all-postgresql/Разные ситуации с VIew.md",
