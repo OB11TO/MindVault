@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "29e008a03eb72b82",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "401c9ad206258d62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/DB - PostgreSql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "0c232cb224d3b82f",
         "type": "tabs",
         "children": [
@@ -38,18 +20,43 @@
             }
           },
           {
-            "id": "4fbdab4d1b6ffe46",
+            "id": "7db578eeb175d874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/postgresql/all-postgresql/Coursor.md",
+                "file": "programming/backendJava/postgresql/all-postgresql/Базовый инструментарий PG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "031af567429c44ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/postgresql/all-postgresql/Утилиты управления сервером. Использование psql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2159aebf3d98533a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/postgresql/all-postgresql/Конфигурирование PostgreSQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/postgresql/PostgreSql.md",
+                "file": "programming/backendJava/postgresql/all-postgresql/Конфигурирование PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/postgresql/PostgreSql.md",
+                "file": "programming/backendJava/postgresql/all-postgresql/Конфигурирование PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/postgresql/PostgreSql.md"
+                "file": "programming/backendJava/postgresql/all-postgresql/Конфигурирование PostgreSQL.md"
               }
             }
           }
@@ -178,47 +185,47 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "3bcd9ecbcff335e4",
+  "active": "2159aebf3d98533a",
   "lastOpenFiles": [
-    "programming/backendJava/postgresql/all-postgresql/Coursor.md",
-    "Notion/DB - PostgreSql.md",
+    "images/Pasted image 20240925174933.png",
+    "images/Pasted image 20240925174910.png",
+    "images/Pasted image 20240925174842.png",
+    "images/Pasted image 20240925174557.png",
+    "programming/backendJava/postgresql/all-postgresql/Утилиты управления сервером. Использование psql.md",
+    "programming/backendJava/postgresql/all-postgresql/Базовый инструментарий PG.md",
     "programming/backendJava/postgresql/PostgreSql.md",
-    "programming/backendJava/postgresql/all-postgresql/View.md",
-    "programming/backendJava/postgresql/all-postgresql/Разные ситуации с VIew.md",
+    "programming/backendJava/postgresql/all-postgresql/Конфигурирование PostgreSQL.md",
+    "programming/backendJava/postgresql/all-postgresql/Подключение и аутентификация PG.md",
+    "images/Pasted image 20240925160713.png",
+    "images/Pasted image 20240925160648.png",
+    "images/Pasted image 20240925160321.png",
+    "images/Pasted image 20240925160058.png",
+    "images/Pasted image 20240925155600.png",
+    "images/Pasted image 20240925155204.png",
+    "images/Pasted image 20240925155024.png",
+    "programming/backendJava/postgresql/all-postgresql/Joins.md",
+    "programming/backendJava/postgresql/all-postgresql/FULL JOIN.md",
+    "Notion/DB - PostgreSql.md",
+    "programming/backendJava/postgresql/all-postgresql/CROSS JOIN.md",
+    "programming/backendJava/postgresql/all-postgresql/LEFT JOIN.md",
+    "programming/backendJava/postgresql/all-postgresql/RIGHT JOIN.md",
+    "programming/backendJava/postgresql/all-postgresql/INNER JOIN.md",
+    "programming/backendJava/postgresql/all-postgresql/Нормальные формы.md",
     "programming/backendJava/postgresql/all-postgresql/Основные концепции в PostgreSql.md",
-    "programming/backendJava/postgresql/all-postgresql/Оконные функции.md",
-    "images/Pasted image 20240924170511.png",
-    "images/Pasted image 20240924170509.png",
     "programming/backendJava/postgresql/all-postgresql/Сортировка.md",
+    "programming/backendJava/postgresql/all-postgresql/Оконные функции.md",
     "programming/backendJava/postgresql/all-postgresql/Агрегатные функции.md",
     "programming/backendJava/postgresql/all-postgresql/Группировка данных.md",
     "programming/backendJava/postgresql/all-postgresql/Конкатенация данных таблиц.md",
     "programming/backendJava/postgresql/all-postgresql/FOREIGN KEYS виды.md",
     "programming/backendJava/postgresql/all-postgresql/Операции и поведение внешних ключей.md",
-    "programming/backendJava/postgresql/all-postgresql/Many to One.md",
     "programming/backendJava/postgresql/all-postgresql/One to One.md",
-    "programming/backendJava/postgresql/all-postgresql/Many to Many.md",
     "programming/backendJava/postgresql/all-postgresql/One to Many.md",
-    "programming/backendJava/postgresql/all-postgresql/Нормальные формы.md",
-    "programming/backendJava/postgresql/all-postgresql/Нормальная форма 1.md",
-    "programming/backendJava/postgresql/all-postgresql/Нормальная форма 2.md",
-    "programming/backendJava/postgresql/all-postgresql/Нормальная форма 3.md",
-    "programming/backendJava/postgresql/all-postgresql/UNF без нормализации.md",
+    "programming/backendJava/postgresql/all-postgresql/Foreign Keys не на первичный ключ.md",
     "programming/backendJava/postgresql/all-postgresql/CONSTRAINTS.md",
-    "programming/backendJava/postgresql/all-postgresql/DML DATA MANIPULATION LANGUAGE.md",
-    "programming/backendJava/postgresql/all-postgresql/DDL DATA DEFINITION LANGUAGE.md",
-    "programming/backendJava/Java Developer.md",
     "programming/backendJava/postgresql/all-postgresql",
     "programming/backendJava/oracle/all-oracle",
     "programming/backendJava/redis/all-redis",
-    "images/Pasted image 20240923130835.png",
-    "images/Pasted image 20240923122153.png",
-    "images/Pasted image 20240923121402.png",
-    "images/Pasted image 20240923121319.png",
-    "images/Pasted image 20240923121120.png",
-    "images/Pasted image 20240923115038.png",
-    "images/Pasted image 20240923115036.png",
-    "images/Pasted image 20240923114756.png",
     "programming/backendJava/groovy/all-groovy",
     "programming/backendJava/groovy",
     "programming/backendJava/git/all-git",

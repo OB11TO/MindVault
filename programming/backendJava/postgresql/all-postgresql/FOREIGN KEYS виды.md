@@ -4,7 +4,7 @@ tags:
   - PostgreSql
 related_topics: 
 created: 2024-09-24 15:39
-modified: 2024-09-24T16:09:45+03:00
+modified: 2024-09-25T14:00:05+03:00
 questions: 
 notes: 
 links: 
@@ -18,6 +18,7 @@ links:
 [[Many to Many]]
 
 [[Операции и поведение внешних ключей]]
+[[Foreign Keys не на первичный ключ]]
 
 ----
 

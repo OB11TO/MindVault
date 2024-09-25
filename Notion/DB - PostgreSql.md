@@ -1,5 +1,5 @@
 ---
-modified: 2024-09-24T17:30:16+03:00
+modified: 2024-09-25T15:36:05+03:00
 ---
 
 
@@ -10,120 +10,18 @@ modified: 2024-09-24T17:30:16+03:00
 
 ## JOINS
 
-### INNER JOIN
-
-или просто JOIN . объединяет, не беря в расчет данные, у которых нет связи
-
-
-```SQL
-SELECT * from employees JOIN companys ON employees.id = companys.id;
-```
 
 ### CROSS JOIN
 
-Декартово произведение, например перемножить места в таблице seat для самолета
-
-  
-
-```SQL
-INSERT INTO seat(aircraft_id, seat_no)
-SELECT id, s.column1 from aircraft
-CROSS JOIN (VALUES ('A1'),('A2'),('B1'),('B2'),('C1'),('C2'),('D1'),('D2') order by 1);
-```
 
 ### LEFT JOIN
   
 
-Таблица `customers`:
 
-|             |               |
-| ----------- | ------------- |
-| customer_id | customer_name |
-| 1           | John          |
-| 2           | Emily         |
-| 3           | Michael       |
-| 4           | Sarah         |
-| 5           | David         |
-
-Таблица `orders`:
-
-|   |   |   |
-|---|---|---|
-|order_id|order_date|customer_id|
-|1|2022-04-15|1|
-|2|2022-04-16|2|
-|3|2022-04-17|1|
-|4|2022-04-18|3|
-|5|2022-04-19|1|
-
-1. `LEFT JOIN`
-
-В запросе ниже мы используем `LEFT JOIN`, чтобы выбрать все записи из таблицы `customers`, а также связанные с ней записи из таблицы `orders`, если они существуют
-
-  
-
-```SQL
-SELECT customers.customer_name, orders.order_date
-FROM customers
-LEFT JOIN orders ON customers.customer_id = orders.customer_id;
-
-```
-
-Результатом этого запроса будет таблица, в которой будут перечислены все имена клиентов из таблицы `customers`, а также даты заказов, если они есть. Если для клиента нет заказов, то значение в столбце `order_date` будет `NULL`. Таким образом, результат будет таким:
-
-|   |   |
-|---|---|
-|customer_name|order_date|
-|John|2022-04-15|
-|John|2022-04-17|
-|Emily|2022-04-16|
-|Michael|2022-04-18|
-|Sarah|NULL|
-|David|NULL|
-
-  
 
 ### RIGHT JOIN
 
-В запросе ниже мы используем `RIGHT JOIN`, чтобы выбрать все записи из таблицы `orders`, а также связанные с ней записи из таблицы `customers`, если они существуют:
-
-```SQL
-SELECT customers.customer_name, orders.order_date
-FROM customers
-RIGHT JOIN orders ON customers.customer_id = orders.customer_id;
-```
-
-Результатом этого запроса будет таблица, в которой будут перечислены все даты заказов из таблицы `orders`, а также имена клиентов, если они есть. Если для заказа нет соответствующего клиента, то значение в столбце `customer_name` будет `NULL`. Таким образом, результат будет таким:
-
-|   |   |
-|---|---|
-|customer_name|order_date|
-|John|2022-04-15|
-|Emily|2022-04-16|
-|John|2022-04-17|
-|Michael|2022-04-18|
-|NULL|2022-04-19|
-
 ### FULL JOIN
-
-```SQL
-SELECT customers.customer_name, orders.order_date
-FROM customers
-FULL JOIN orders ON customers.customer_id = orders.customer_id;
-```
-
-Результатом этого запроса будет таблица, содержащая все имена клиентов и даты заказов, при этом значения будут `NULL`, если для них нет соответствующей записи в другой таблице. Таким образом, результат будет таким:
-
-|   |   |
-|---|---|
-|customer_name|order_date|
-|John|2022-04-15|
-|John|2022-04-17|
-|Emily|2022-04-16|
-|Michael|2022-04-18|
-|Sarah|NULL|
-|David|NULL|
-|NULL|2022-04-19|
 
 ## Индексы, B-Tree
 
