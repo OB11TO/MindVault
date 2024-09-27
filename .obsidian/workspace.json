@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "2a288eedebffa6a1",
+            "id": "b94941273f51423f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "d52e10e4567aa62a",
+            "id": "fbaa995f46c3ba3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f5e3a4ad7a6ef5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вакуум и автовакуум.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/postgresql/all-postgresql/Архитектура.md",
+                "file": "Вакуум и автовакуум.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/postgresql/all-postgresql/Архитектура.md",
+                "file": "Вакуум и автовакуум.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/postgresql/all-postgresql/Архитектура.md"
+                "file": "Вакуум и автовакуум.md"
               }
             }
           }
@@ -173,44 +185,44 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "d52e10e4567aa62a",
+  "active": "6f5e3a4ad7a6ef5f",
   "lastOpenFiles": [
-    "programming/backendJava/postgresql/all-postgresql/Файл с запросами.md",
-    "programming/backendJava/postgresql/all-postgresql/Изоляция и многоверсионность.md",
-    "programming/backendJava/postgresql/all-postgresql/MVCC (Multiversion Concurrency Control).md",
-    "programming/backendJava/postgresql/all-postgresql/Помощь в MVCC.md",
-    "programming/backendJava/postgresql/all-postgresql/Блокировки и  MVCC (Multiversion Concurrency Control).md",
-    "programming/backendJava/postgresql/all-postgresql/ACID.md",
     "programming/backendJava/postgresql/all-postgresql/Архитектура.md",
+    "Вакуум и автовакуум.md",
+    "programming/backendJava/postgresql/all-postgresql/Изоляция и многоверсионность.md",
     "programming/backendJava/postgresql/all-postgresql/Уровень изоляции транзакций.md",
+    "images/Pasted image 20240927145649.png",
+    "programming/backendJava/postgresql/all-postgresql/Файл с запросами.md",
+    "images/Pasted image 20240927143215.png",
+    "programming/backendJava/postgresql/all-postgresql/Блокировки и  MVCC (Multiversion Concurrency Control).md",
+    "programming/backendJava/postgresql/all-postgresql/MVCC (Multiversion Concurrency Control).md",
+    "programming/backendJava/postgresql/all-postgresql/ARIES (Algorithm for Recovery and Isolation Exploiting Semantics).md",
+    "programming/backendJava/postgresql/all-postgresql/Помощь в MVCC.md",
+    "programming/backendJava/postgresql/all-postgresql/ACID.md",
+    "Notion/DB - PostgreSql.md",
     "programming/backendJava/postgresql/all-postgresql/Общее устройство PostgreSQL.md",
     "programming/backendJava/postgresql/all-postgresql/Что будет если транзакция откатилась в WAL есть запись.md",
+    "programming/backendJava/postgresql/all-postgresql/Что происходит внутри сессии.md",
     "programming/backendJava/postgresql/all-postgresql/Как данные обрабатываются в PostgreSQL.md",
+    "programming/backendJava/postgresql/all-postgresql/Shared_buffer  vs Work_mem.md",
+    "programming/backendJava/postgresql/PostgreSql.md",
+    "programming/backendJava/postgresql/all-postgresql/План выполнения Explan.md",
+    "programming/backendJava/postgresql/all-postgresql/Хэш-таблица PG.md",
+    "programming/backendJava/postgresql/all-postgresql/Практические нюансы.md",
+    "programming/backendJava/postgresql/all-postgresql/Базовый инструментарий PG.md",
+    "programming/backendJava/postgresql/all-postgresql/Конфигурирование PostgreSQL.md",
+    "programming/backendJava/postgresql/all-postgresql/Утилиты управления сервером. Использование psql.md",
+    "programming/backendJava/postgresql/all-postgresql/Подключение и аутентификация PG.md",
+    "programming/backendJava/postgresql/all-postgresql/Основные концепции в PostgreSql.md",
     "images/Pasted image 20240926170339.png",
     "images/Pasted image 20240926170220.png",
     "images/Pasted image 20240926170141.png",
     "images/Pasted image 20240926165930.png",
     "images/Pasted image 20240926165811.png",
     "images/Pasted image 20240926165652.png",
-    "programming/backendJava/postgresql/all-postgresql/Практические нюансы.md",
-    "programming/backendJava/postgresql/all-postgresql/Базовый инструментарий PG.md",
-    "programming/backendJava/postgresql/all-postgresql/Утилиты управления сервером. Использование psql.md",
-    "programming/backendJava/postgresql/all-postgresql/Что происходит внутри сессии.md",
     "images/Pasted image 20240926135339.png",
     "images/Pasted image 20240926135214.png",
-    "images/Pasted image 20240926135041.png",
-    "images/Pasted image 20240926134951.png",
-    "programming/backendJava/postgresql/PostgreSql.md",
-    "programming/backendJava/postgresql/all-postgresql/Конфигурирование PostgreSQL.md",
-    "programming/backendJava/postgresql/all-postgresql/Подключение и аутентификация PG.md",
     "programming/backendJava/postgresql/all-postgresql/View.md",
-    "programming/backendJava/postgresql/all-postgresql/Нормальные формы.md",
-    "programming/backendJava/postgresql/all-postgresql/Основные концепции в PostgreSql.md",
-    "programming/backendJava/postgresql/all-postgresql/Joins.md",
-    "programming/backendJava/postgresql/all-postgresql/INNER JOIN.md",
-    "programming/backendJava/postgresql/all-postgresql/FULL JOIN.md",
-    "Notion/DB - PostgreSql.md",
-    "programming/backendJava/postgresql/all-postgresql/CROSS JOIN.md",
     "programming/backendJava/postgresql/all-postgresql",
     "programming/backendJava/oracle/all-oracle",
     "programming/backendJava/redis/all-redis",
