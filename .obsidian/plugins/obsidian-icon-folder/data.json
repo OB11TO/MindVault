@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiThealgorithms",
       "SiOracle",
       "SiRedis",
       "BoBxlPostgresql",
-      "SiPostgresql",
-      "SiApachegroovy"
+      "SiPostgresql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -202,5 +202,17 @@
   "programming/backendJava/oracle/Oracle.md": {
     "iconName": "SiOracle",
     "iconColor": "#d9540d"
+  },
+  "programming/algorithm": {
+    "iconName": "SiThealgorithms",
+    "iconColor": "#e6e117"
+  },
+  "programming/algorithm/Algorithm.md": {
+    "iconName": "SiThealgorithms",
+    "iconColor": "#e6e117"
+  },
+  "programming/algorithm/algorithm": {
+    "iconName": "SiThealgorithms",
+    "iconColor": "#e6e117"
   }
 }

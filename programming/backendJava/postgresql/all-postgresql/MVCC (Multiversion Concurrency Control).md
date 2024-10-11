@@ -4,7 +4,7 @@ tags:
   - PostgreSql
 related_topics: 
 created: 2024-09-26 17:40
-modified: 2024-09-27T12:51:44+03:00
+modified: 2024-10-02T16:08:54+03:00
 questions: 
 notes: 
 links: 
@@ -12,6 +12,7 @@ links:
 
 ----
 [[Помощь в MVCC]]
+[[Откат транзакции и запись на диск]]
 
 
 ---

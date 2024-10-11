@@ -1,13 +1,14 @@
 ---
 title: Java Developer
-tags: []
+tags: 
 related_topics: 
 created: 2024-08-29 16:48
-modified: 2024-09-24T14:54:10+03:00
+modified: 2024-10-11T19:48:07+03:00
 difficulty: expert
 questions: 
 notes: Каждый день превосходи свой предел!
-links: 
+links:
+  - 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
 ---
 
 
