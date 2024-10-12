@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/postgresql/all-postgresql/Журнал Wal.md",
+                "file": "programming/backendJava/Java Developer.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -269,15 +269,16 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "a3f1da65a8773f2c",
+  "active": "5661b8532ef380d9",
   "lastOpenFiles": [
-    "programming/backendJava/postgresql/all-postgresql/sql журнал wal.md",
     "programming/backendJava/postgresql/all-postgresql/Журнал Wal.md",
+    "programming/backendJava/postgresql/all-postgresql/Контрольная точка.md",
+    "programming/backendJava/postgresql/all-postgresql/Снимки транзакций.md",
+    "programming/backendJava/Java Developer.md",
+    "programming/backendJava/postgresql/all-postgresql/sql журнал wal.md",
     "programming/backendJava/postgresql/all-postgresql/Транзакции.md",
     "programming/backendJava/postgresql/PostgreSql.md",
-    "programming/backendJava/postgresql/all-postgresql/Контрольная точка.md",
     "programming/backendJava/postgresql/all-postgresql/Архитектура.md",
-    "programming/backendJava/postgresql/all-postgresql/Снимки транзакций.md",
     "programming/backendJava/postgresql/all-postgresql/Postgres внутри.md",
     "programming/backendJava/postgresql/all-postgresql/Буферный кеш.md",
     "programming/backendJava/postgresql/all-postgresql/Очистка и ее горизонт.md",
@@ -306,7 +307,6 @@
     "programming/backendJava/postgresql/all-postgresql/Логическое устройство базы данных и схем.md",
     "programming/backendJava/postgresql/all-postgresql/Физическое устройство базы данных.md",
     "programming/backendJava/postgresql/all-postgresql/sql запросы для логического устройства.md",
-    "programming/backendJava/postgresql/all-postgresql/Полезные штуки.md",
     "programming/algorithm/algorithm",
     "programming/algorithm",
     "programming/backendJava/postgresql/all-postgresql",
